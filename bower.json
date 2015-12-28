@@ -1,0 +1,17 @@
+{
+  "name": "factbook-country-data",
+  "authors": [
+    "Simon <svansintjan@gmail.com>"
+  ],
+  "description": "Bring World Factbook data to Bower",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "factbook",
+    "country",
+    "data",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/simonv3/factbook-country-data"
+}
