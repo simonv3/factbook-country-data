@@ -1,130 +1,141 @@
 {
   "Introduction": {
     "Background": {
-      "text": "English and Irish colonists from St. Kitts first settled on Montserrat in 1632; the first African slaves arrived three decades later. The British and French fought for possession of the island for most of the 18th century, but it finally was confirmed as a British possession in 1783. The island's sugar plantation economy was converted to small farm landholdings in the mid-19th century. Much of this island was devastated and two-thirds of the population fled abroad because of the eruption of the Soufriere Hills Volcano that began on 18 July 1995. Montserrat has endured volcanic activity since, with the last eruption occurring in July 2003."
+      "text": "After almost four decades under US administration as the easternmost part of the UN Trust Territory of the Pacific Islands, the Marshall Islands attained independence in 1986 under a Compact of Free Association. Compensation claims continue as a result of US nuclear testing on some of the atolls between 1947 and 1962. The Marshall Islands hosts the US Army Kwajalein Atoll Reagan Missile Test Site, a key installation in the US missile defense network. Kwajalein also hosts one of four dedicated ground antennas (the others are on Ascension (Saint Helena, Ascension, and Tristan da Cunha), Diego Garcia (British Indian Ocean Territory), and at Cape Canaveral, Florida (US)) that assist in the operation of the Global Positioning System (GPS) navigation system."
     }
   },
   "Geography": {
     "Location": {
-      "text": "Caribbean, island in the Caribbean Sea, southeast of Puerto Rico"
+      "text": "Oceania, two archipelagic island chains of 29 atolls, each made up of many small islets, and five single islands in the North Pacific Ocean, about halfway between Hawaii and Australia"
     },
     "Geographic coordinates": {
-      "text": "16 45 N, 62 12 W"
+      "text": "9 00 N, 168 00 E"
     },
     "Map references": {
-      "text": "Central America and the Caribbean"
+      "text": "Oceania"
     },
     "Area": {
       "total": {
-        "text": "102 sq km"
+        "text": "181 sq km"
       },
       "land": {
-        "text": "102 sq km"
+        "text": "181 sq km"
       },
       "water": {
         "text": "0 sq km"
+      },
+      "note": {
+        "text": "the archipelago includes 11,673 sq km of lagoon waters and encompasses the atolls of Bikini, Enewetak, Kwajalein, Majuro, Rongelap, and Utirik"
       }
     },
     "Area - comparative": {
-      "text": "about 0.6 times the size of Washington, DC"
+      "text": "about the size of Washington, DC"
     },
     "Land boundaries": {
       "text": "0 km"
     },
     "Coastline": {
-      "text": "40 km"
+      "text": "370.4 km"
     },
     "Maritime claims": {
       "territorial sea": {
-        "text": "3 nm"
+        "text": "12 nm"
       },
-      "exclusive fishing zone": {
+      "contiguous zone": {
+        "text": "24 nm"
+      },
+      "exclusive economic zone": {
         "text": "200 nm"
       }
     },
     "Climate": {
-      "text": "tropical; little daily or seasonal temperature variation"
+      "text": "tropical; hot and humid; wet season May to November; islands border typhoon belt"
     },
     "Terrain": {
-      "text": "volcanic island, mostly mountainous, with small coastal lowland"
+      "text": "low coral limestone and sand islands"
     },
     "Elevation extremes": {
       "lowest point": {
-        "text": "Caribbean Sea 0 m"
+        "text": "Pacific Ocean 0 m"
       },
       "highest point": {
-        "text": "Soufriere Hills volcano pre-eruption height was 915 m; current lava dome is subject to periodic build up and collapse; estimated dome height was 1050 m in 2013"
+        "text": "unnamed location on Likiep 10 m"
       }
     },
     "Natural resources": {
-      "text": "NEGL"
+      "text": "coconut products, marine products, deep seabed minerals"
     },
     "Land use": {
       "agricultural land": {
-        "text": "30% ++ arable land 20%; permanent crops 0%; permanent pasture 10%"
+        "text": "50.7% ++ arable land 7.8%; permanent crops 31.2%; permanent pasture 11.7%"
       },
       "forest": {
-        "text": "25%"
+        "text": "49.3%"
       },
       "other": {
-        "text": "45% (2011 est.)"
+        "text": "0% (2011 est.)"
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "0 sq km (2011)"
     },
     "Natural hazards": {
-      "text": "volcanic eruptions; severe hurricanes (June to November)",
-      "volcanism": {
-        "text": "Soufriere Hills volcano (elev. 915 m), has erupted continuously since 1995; a massive eruption in 1997 destroyed most of the capital, Plymouth, and resulted in approximately half of the island becoming uninhabitable"
-      }
+      "text": "infrequent typhoons"
     },
     "Environment - current issues": {
-      "text": "land erosion occurs on slopes that have been cleared for cultivation"
+      "text": "inadequate supplies of potable water; pollution of Majuro lagoon from household waste and discharges from fishing vessels"
+    },
+    "Environment - international agreements": {
+      "party to": {
+        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Ship Pollution, Wetlands, Whaling"
+      },
+      "signed, but not ratified": {
+        "text": "none of the selected agreements"
+      }
     },
     "Geography - note": {
-      "text": "the island is entirely volcanic in origin and comprised of three major volcanic centers of differing ages"
+      "text": "the islands of Bikini and Enewetak are former US nuclear test sites; Kwajalein atoll, famous as a World War II battleground, surrounds the world's largest lagoon and is used as a US missile test range; the island city of Ebeye is the second largest settlement in the Marshall Islands, after the capital of Majuro, and one of the most densely populated locations in the Pacific"
     }
   },
   "People and Society": {
     "Nationality": {
       "noun": {
-        "text": "Montserratian(s)"
+        "text": "Marshallese (singular and plural)"
       },
       "adjective": {
-        "text": "Montserratian"
+        "text": "Marshallese"
       }
     },
     "Ethnic groups": {
-      "text": "African/black 88.4%, mixed 3.7%, hispanic/Spanish 3%, caucasian/white 2.7%, East Indian/Indian 1.5%, other 0.7% (2011 est.)"
+      "text": "Marshallese 92.1%, mixed Marshallese 5.9%, other 2% (2006)"
     },
     "Languages": {
-      "text": "English"
+      "text": "Marshallese (official) 98.2%, other languages 1.8% (1999 census)",
+      "note": {
+        "text": "English (official), widely spoken as a second language"
+      }
     },
     "Religions": {
-      "text": "Protestant 67.1% (includes Anglican 21.8%, Methodist 17%, Pentecostal 14.1%, Seventh Day Adventist 10.5%, and Church of God 3.7%), Roman Catholic 11.6%, Rastafarian 1.4%, other 6.5%, none 2.6%, unspecified 10.8% (2001 est.)"
+      "text": "Protestant 54.8%, Assembly of God 25.8%, Roman Catholic 8.4%, Bukot nan Jesus 2.8%, Mormon 2.1%, other Christian 3.6%, other 1%, none 1.5% (1999 census)"
     },
     "Population": {
-      "text": "5,241",
-      "note": {
-        "text": "an estimated 8,000 refugees left the island following the resumption of volcanic activity in July 1995; some have returned (July 2015 est.)"
-      }
+      "text": "72,191 (July 2015 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "17.99% (male 485/female 458)"
+        "text": "36.02% (male 13,256/female 12,749)"
       },
       "15-24 years": {
-        "text": "20.89% (male 567/female 528)"
+        "text": "17.4% (male 6,391/female 6,171)"
       },
       "25-54 years": {
-        "text": "47.89% (male 1,202/female 1,308)"
+        "text": "37.25% (male 13,681/female 13,210)"
       },
       "55-64 years": {
-        "text": "6.98% (male 163/female 203)"
+        "text": "5.73% (male 2,120/female 2,017)"
       },
       "65 years and over": {
-        "text": "6.24% (male 201/female 126) (2015 est.)"
+        "text": "3.6% (male 1,276/female 1,320) (2015 est.)"
       },
       "population pyramid": {
         "text": null
@@ -132,97 +143,112 @@
     },
     "Median age": {
       "total": {
-        "text": "31.9 years"
+        "text": "22.6 years"
       },
       "male": {
-        "text": "31.5 years"
+        "text": "22.5 years"
       },
       "female": {
-        "text": "32.5 years (2015 est.)"
+        "text": "22.7 years (2015 est.)"
       }
     },
     "Population growth rate": {
-      "text": "0.5% (2015 est.)"
+      "text": "1.66% (2015 est.)"
     },
     "Birth rate": {
-      "text": "11.26 births/1,000 population (2015 est.)"
+      "text": "25.6 births/1,000 population (2015 est.)"
     },
     "Death rate": {
-      "text": "6.3 deaths/1,000 population (2015 est.)"
+      "text": "4.21 deaths/1,000 population (2015 est.)"
     },
     "Net migration rate": {
-      "text": "0 migrant(s)/1,000 population (2015 est.)"
+      "text": "-4.83 migrant(s)/1,000 population (2015 est.)"
     },
     "Urbanization": {
       "urban population": {
-        "text": "9% of total population (2015)"
+        "text": "72.7% of total population (2015)"
       },
       "rate of urbanization": {
-        "text": "0.65% annual rate of change (2010-15 est.)"
+        "text": "0.59% annual rate of change (2010-15 est.)"
       }
+    },
+    "Major urban areas - population": {
+      "text": "MAJURO (capital) 31,000 (2014)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.03 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.06 male(s)/female"
+        "text": "1.04 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.07 male(s)/female"
+        "text": "1.04 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.92 male(s)/female"
+        "text": "1.04 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.8 male(s)/female"
+        "text": "1.05 male(s)/female"
       },
       "65 years and over": {
-        "text": "1.6 male(s)/female"
+        "text": "0.97 male(s)/female"
       },
       "total population": {
-        "text": "1 male(s)/female (2015 est.)"
+        "text": "1.04 male(s)/female (2015 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "13.17 deaths/1,000 live births"
+        "text": "20.66 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.22 deaths/1,000 live births"
+        "text": "23.29 deaths/1,000 live births"
       },
       "female": {
-        "text": "16.25 deaths/1,000 live births (2015 est.)"
+        "text": "17.9 deaths/1,000 live births (2015 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "74.14 years"
+        "text": "72.84 years"
       },
       "male": {
-        "text": "75.64 years"
+        "text": "70.67 years"
       },
       "female": {
-        "text": "72.57 years (2015 est.)"
+        "text": "75.13 years (2015 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.3 children born/woman (2015 est.)"
+      "text": "3.15 children born/woman (2015 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "44.6% (2007)"
+    },
+    "Health expenditures": {
+      "text": "16.5% of GDP (2013)"
+    },
+    "Physicians density": {
+      "text": "0.44 physicians/1,000 population (2010)"
+    },
+    "Hospital bed density": {
+      "text": "2.7 beds/1,000 population (2010)"
     },
     "Drinking water source": {
       "improved": {
-        "text": " ++ urban: 99% of population ++ rural: 99% of population ++ total: 99% of population"
+        "text": " ++ urban: 93.5% of population ++ rural: 97.6% of population ++ total: 94.6% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 1% of population ++ rural: 1% of population ++ total: 1% of population (2015 est.)"
+        "text": " ++ urban: 6.5% of population ++ rural: 2.4% of population ++ total: 5.4% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 82.9% of population ++ rural: 82.9% of population ++ total: 82.9% of population"
+        "text": " ++ urban: 84.5% of population ++ rural: 56.2% of population ++ total: 76.9% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 17.1% of population ++ rural: 17.1% of population ++ total: 17.1% of population (2007 est.)"
+        "text": " ++ urban: 15.5% of population ++ rural: 43.8% of population ++ total: 23.1% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -234,183 +260,227 @@
     "HIV/AIDS - deaths": {
       "text": "NA"
     },
-    "School life expectancy (primary to tertiary education)": {
-      "total": {
-        "text": "15 years"
-      },
-      "male": {
-        "text": "14 years"
-      },
-      "female": {
-        "text": "17 years (2007)"
-      }
+    "Obesity - adult prevalence rate": {
+      "text": "42.3% (2014)"
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "Republic of the Marshall Islands"
       },
       "conventional short form": {
-        "text": "Montserrat"
+        "text": "Marshall Islands"
+      },
+      "local long form": {
+        "text": "Republic of the Marshall Islands"
+      },
+      "local short form": {
+        "text": "Marshall Islands"
+      },
+      "abbreviation": {
+        "text": "RMI"
+      },
+      "former": {
+        "text": "Trust Territory of the Pacific Islands, Marshall Islands District"
       }
     },
-    "Dependency status": {
-      "text": "overseas territory of the UK"
-    },
     "Government type": {
-      "text": "NA"
+      "text": "constitutional government in free association with the US; the Compact of Free Association entered into force on 21 October 1986 and the Amended Compact entered into force in May 2004"
     },
     "Capital": {
       "name": {
-        "text": "Plymouth; note - Plymouth was abandoned in 1997 because of volcanic activity; interim government buildings have been built at Brades Estate in the Carr's Bay/Little Bay vicinity at the northwest end of Montserrat"
+        "text": "Majuro"
       },
       "geographic coordinates": {
-        "text": "16 42 N, 62 13 W"
+        "text": "7 06 N, 171 23 E"
       },
       "time difference": {
-        "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
+        "text": "UTC+12 (17 hours ahead of Washington, DC, during Standard Time)"
       }
     },
     "Administrative divisions": {
-      "text": "3 parishes; Saint Anthony, Saint Georges, Saint Peter"
+      "text": "24 municipalities; Ailinglaplap, Ailuk, Arno, Aur, Bikini & Kili, Ebon, Enewetak & Ujelang, Jabat, Jaluit, Kwajalein, Lae, Lib, Likiep, Majuro, Maloelap, Mejit, Mili, Namdrik, Namu, Rongelap, Ujae, Utrik, Wotho, Wotje"
     },
     "Independence": {
-      "text": "none (overseas territory of the UK)"
+      "text": "21 October 1986 (from the US-administered UN trusteeship)"
     },
     "National holiday": {
-      "text": "birthday of Queen ELIZABETH II, second Saturday in June (1926)"
+      "text": "Constitution Day, 1 May (1979)"
     },
     "Constitution": {
-      "text": "previous 1960; latest effective 1 September 2010; amended 2011 (2015)"
+      "text": "effective 1 May 1979; amended several times, last in 1995 (2015)"
     },
     "Legal system": {
-      "text": "English common law"
+      "text": "mixed legal system of US and English common law, customary law, and local statutes"
+    },
+    "International law organization participation": {
+      "text": "accepts compulsory ICJ jurisdiction with reservations; accepts ICCt jurisdiction"
     },
     "Suffrage": {
       "text": "18 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Elizabeth CARRIERE (since 5 August 2015)"
+        "text": "President Christopher J. LOEAK (since 17 January 2012); note - the president is both chief of state and head of government"
       },
       "head of government": {
-        "text": "Premier Donaldson ROMERO (since 12 September 2014); note - effective with the new Constitution Order of October 2010, the office of premier replaced the office of chief minister"
+        "text": "President Christopher J. LOEAK (since 17 January 2012)"
       },
       "cabinet": {
-        "text": "Executive Council consists of the governor, the premier, 3 other ministers, the attorney general, and the finance secretary"
+        "text": "Cabinet nominated by the president from among members of the Nitijela, appointed by Nitijela speaker"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party usually becomes premier"
+        "text": "president indirectly elected by the Nitijela from among its members for a 4-year term (no term limits); election last held on 3 January 2012 (next to be held in 2016)"
+      },
+      "election results": {
+        "text": "Christopher J. LOEAK elected president; Parliament vote - Christopher J. LOEAK (AKA) 21, Jurelang ZEDKAIA (UDP) 11"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral Legislative Council (11 seats; 9 members directly elected in a single constituency by absolute majority vote in two rounds to serve 5-year terms and 2 ex-officio members - the attorney general and financial secretary)"
+        "text": "bicameral legislature consists of the Council of Iroij (12 seats; consists of tribal chiefs chosen by holders of the chieftainship among the constituent islands) and the National Parliament or Nitijela (33 seats; members directly elected by simple majority vote to serve 4-year terms); note - the Council of Iroij advises the Presidential Cabinet and reviews legislation affecting customary law or any traditional practice)"
       },
       "elections": {
-        "text": "last held on 11 September 2014 (next to be held by 2019)"
+        "text": "last held on 21 November 2011 (next to be held by November 2015)"
       },
       "election results": {
-        "text": "percent of vote by party - PDM 50.1%, MCAP 35.3%; seats by party - PDM 7, MCAP 2"
+        "text": "percent of vote by party - NA; seats by party - independents 33"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "the Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States to include Montserrat; the ECSC - with its headquarters on St. Lucia - is headed by the chief justice and is comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the 9 member states; 1 judge of the Supreme Court is a resident of Montserrat and presides over the High Court; note - Montserrat is also a member of the Caribbean Court of Justice"
+        "text": "Supreme Court (consists of the chief justice and other judges as prescribed by law)"
       },
       "judge selection and term of office": {
-        "text": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
+        "text": "judges appointed by the Cabinet on the recommendation of the Judicial Service Commission and upon the approval of the Nitijela; judges appointed until retirement, normally at age 72"
       },
       "subordinate courts": {
-        "text": "magistrate's court"
+        "text": "High Court; District Courts; Traditional Rights Court; Community Courts"
       }
     },
     "Political parties and leaders": {
-      "text": "Movement for Change and Prosperity or MCAP [Reuben MEADE] ++ People's Democratic Movement or PDM [Shirley OSBORNE]"
+      "text": "traditionally there have been no formally organized political parties; what has existed more closely resembles factions or interest groups because they do not have party headquarters, formal platforms, or party structures; the following two \"groupings\" have competed in legislative balloting in recent years - Aelon Kein Ad Party [Michael KABUA] and United Democratic Party or UDP [Litokwa TOMEING]"
     },
     "Political pressure groups and leaders": {
       "text": "NA"
     },
     "International organization participation": {
-      "text": "Caricom, CDB, Interpol (subbureau), OECS, UPU"
+      "text": "ACP, ADB, AOSIS, FAO, G-77, IAEA, IBRD, ICAO, ICCt, IDA, IFAD, IFC, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, ITU, OPCW, PIF, Sparteca, SPC, UN, UNCTAD, UNESCO, WHO"
     },
     "Diplomatic representation in the US": {
-      "text": "none (overseas territory of the UK)"
+      "chief of mission": {
+        "text": "Ambassador Charles R. PAUL (since 6 September 2011)"
+      },
+      "chancery": {
+        "text": "2433 Massachusetts Avenue NW, 1st Floor, Washington, DC 20008"
+      },
+      "telephone": {
+        "text": "[1] (202) 234-5414"
+      },
+      "FAX": {
+        "text": "[1] (202) 232-3236"
+      },
+      "consulate(s) general": {
+        "text": "Honolulu, Springdale (AK)"
+      },
+      "consulate(s)": {
+        "text": "Agana (Guam)"
+      }
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "chief of mission": {
+        "text": "Ambassador Thomas H. ARMBRUSTER (since 16 August 2012)"
+      },
+      "embassy": {
+        "text": "Oceanside, Mejen Weto, Long Island, Majuro"
+      },
+      "mailing address": {
+        "text": "P. O. Box 1379, Majuro, Republic of the Marshall Islands 96960-1379"
+      },
+      "telephone": {
+        "text": "[692] 247-4011"
+      },
+      "FAX": {
+        "text": "[692] 247-4012"
+      }
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Montserratian coat of arms centered in the outer half of the flag; the arms feature a woman in green dress, Erin, the female personification of Ireland, standing beside a yellow harp and embracing a large dark cross with her right arm; Erin and the harp are symbols of Ireland reflecting the territory's Irish ancestry; blue represents awareness, trustworthiness, determination, and righteousness"
+      "text": "blue with two stripes radiating from the lower hoist-side corner - orange (top) and white; a white star with four large rays and 20 small rays appears on the hoist side above the two stripes; blue represents the Pacific Ocean, the orange stripe signifies the Ralik Chain or sunset and courage, while the white stripe signifies the Ratak Chain or sunrise and peace; the star symbolizes the cross of Christianity, each of the 24 rays designates one of the electoral districts in the country and the four larger rays highlight the principal cultural centers of Majuro, Jaluit, Wotje, and Ebeye; the rising diagonal band can also be interpreted as representing the equator, with the star showing the archipelago's position just to the north"
+    },
+    "National symbol(s)": {
+      "text": "a 24-rayed star; national colors: blue, white, orange"
     },
     "National anthem": {
+      "name": {
+        "text": "\"Forever Marshall Islands\""
+      },
+      "lyrics/music": {
+        "text": "Amata KABUA"
+      },
       "note": {
-        "text": "as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+        "text": "adopted 1981"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Severe volcanic activity, which began in July 1995, has put a damper on this small, open economy. A catastrophic eruption in June 1997 closed the airport and seaports, causing further economic and social dislocation. Two-thirds of the 12,000 inhabitants fled the island. Some began to return in 1998 but lack of housing limited the number. The agriculture sector continued to be affected by the lack of suitable land for farming and the destruction of crops. Prospects for the economy depend largely on developments in relation to the volcanic activity and on public sector construction activity. Half of the island remains uninhabitable. In January 2013, the EU announced the disbursement of a $55.2 million aid package to Montserrat in order to boost the country's economic recovery, with a specific focus on public finance management, public sector reform, and prudent economic management."
+      "text": "US assistance and lease payments for the use of Kwajalein Atoll as a US military base are the mainstay of this small island country. The Marshall Islands received roughly $1 billion in aid from the US during 1986-2001 under the original Compact of Free Association (Compact). In 2002 and 2003, the US and the Marshall Islands renegotiated the Compact's financial package for a 20-year period, from 2004 to 2024. Under the amended Compact, the Marshall Islands will receive roughly $1.5 billion in direct US assistance. Agricultural production, primarily subsistence, is concentrated on small farms; the most important commercial crops are coconuts and breadfruit. Industry is limited to handicrafts, tuna processing, and copra. Tourism holds some potential. The islands and atolls have few natural resources, and imports exceed exports. Under the amended Compact, the US is also funding, jointly with the Marshall Islands, a Trust Fund for the people of the Marshall Islands that will provide an income stream beyond 2024 when direct Compact aid is to end."
     },
     "GDP (purchasing power parity)": {
-      "text": "$43.78 million (2006 est.)"
+      "text": "$182 million (2014 est.) ++ $181.1 million (2013 est.) ++ $175.8 million (2012 est.)",
+      "note": {
+        "text": "data are in 2014 US dollars"
+      }
     },
     "GDP (official exchange rate)": {
-      "text": "$NA"
+      "text": "$193 million (2014 est.)"
     },
     "GDP - real growth rate": {
-      "text": "3.5% (2008 est.)"
+      "text": "0.5% (2014 est.) ++ 3% (2013 est.) ++ 4.7% (2012 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$8,500 (2006 est.)"
-    },
-    "GDP - composition, by end use": {
-      "household consumption": {
-        "text": "87.9%"
-      },
-      "government consumption": {
-        "text": "50.2%"
-      },
-      "investment in fixed capital": {
-        "text": "24.9%"
-      },
-      "investment in inventories": {
-        "text": "0%"
-      },
-      "exports of goods and services": {
-        "text": "21.5%"
-      },
-      "imports of goods and services": {
-        "text": "-84.5% ++  (2014 est.)"
+      "text": "$3,300 (2014 est.) ++ $3,300 (2013 est.) ++ $3,200 (2012 est.)",
+      "note": {
+        "text": "data are in 2014 US dollars"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.6%"
+        "text": "4.4%"
       },
       "industry": {
-        "text": "22.2%"
+        "text": "9.9%"
       },
       "services": {
-        "text": "76.2% (2014 est.)"
+        "text": "85.7% (2013 est.)"
       }
     },
     "Agriculture - products": {
-      "text": "cabbages, carrots, cucumbers, tomatoes, onions, peppers; livestock products"
+      "text": "coconuts, tomatoes, melons, taro, breadfruit, fruits; pigs, chickens"
     },
     "Industries": {
-      "text": "tourism, rum, textiles, electronic appliances"
+      "text": "copra, tuna processing, tourism, craft items (from seashells, wood, and pearls)"
     },
     "Industrial production growth rate": {
-      "text": "2% (2014 est.)"
+      "text": "NA%"
     },
     "Labor force": {
-      "text": "4,521 (2012)"
+      "text": "10,670 (2013 est.)"
+    },
+    "Labor force - by occupation": {
+      "agriculture": {
+        "text": "11%"
+      },
+      "industry": {
+        "text": "16.3%"
+      },
+      "services": {
+        "text": "72.7% (2011 est.)"
+      }
     },
     "Unemployment rate": {
-      "text": "6% (1998 est.)"
+      "text": "36% (2006 est.) ++ 30.9% (2000 est.)"
     },
     "Population below poverty line": {
       "text": "NA%"
@@ -425,233 +495,192 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$0"
+        "text": "$116.7 million"
       },
       "expenditures": {
-        "text": "$37.04 million (2014 est.)"
+        "text": "$113.9 million (2013 est.)"
       }
     },
+    "Taxes and other revenues": {
+      "text": "60.5% of GDP (2013 est.)"
+    },
+    "Budget surplus (+) or deficit (-)": {
+      "text": "1.5% of GDP (2013 est.)"
+    },
+    "Public debt": {
+      "text": "51.3% of GDP (2013)"
+    },
     "Fiscal year": {
-      "text": "1 April - 31 March"
+      "text": "1 October - 30 September"
     },
     "Inflation rate (consumer prices)": {
-      "text": "1.5% (2014 est.) ++ 0.9% (2013 est.)"
+      "text": "1.1% (2014 est.) ++ 1.9% (2013 est.)"
     },
-    "Central bank discount rate": {
-      "text": "10.99% (31 December 2010) ++ 6.5% (31 December 2009)"
-    },
-    "Commercial bank prime lending rate": {
-      "text": "8.02% (31 December 2014 est.) ++ 8% (31 December 2013 est.)"
-    },
-    "Stock of narrow money": {
-      "text": "$16.69 million (31 December 2014 est.) ++ $19.86 million (31 December 2013 est.)"
-    },
-    "Stock of broad money": {
-      "text": "$88.59 million (31 December 2014 est.) ++ $79.75 million (31 December 2013 est.)"
-    },
-    "Stock of domestic credit": {
-      "text": "$5.185 million (31 December 2014 est.) ++ $3.704 million (31 December 2013 est.)"
+    "Current account balance": {
+      "text": "-$34 million (2014 est.) ++ -$26 million (2013 est.)"
     },
     "Exports": {
-      "text": "$3.6 million (2014 est.) ++ $6.1 million (2013 est.)"
+      "text": "$53.7 million (2013 est.) ++ $58.1 million (2012)"
     },
     "Exports - commodities": {
-      "text": "electronic components, plastic bags, apparel; hot peppers, limes, live plants; cattle"
+      "text": "copra cake, coconut oil, handicrafts, fish"
     },
     "Imports": {
-      "text": "$30 million (2014 est.) ++ $35.5 million (2013 est.)"
+      "text": "$133.7 million (2013 est.) ++ $120.9 million (2012)"
     },
     "Imports - commodities": {
-      "text": "machinery and transportation equipment, foodstuffs, manufactured goods, fuels, lubricants"
-    },
-    "Reserves of foreign exchange and gold": {
-      "text": "$32.08 million (31 December 2012 est.) ++ $40.51 million (31 December 2013 est.)"
+      "text": "foodstuffs, machinery and equipment, fuels, beverages, tobacco"
     },
     "Debt - external": {
-      "text": "$40.51 million (31 December 2013 est.)"
+      "text": "$97.96 million (2013 est.) ++ $87 million (2008 est.)"
     },
     "Exchange rates": {
-      "text": "East Caribbean dollars (XCD) per US dollar - ++ 2.7 (2014 est.) ++ 2.7 (2013 est.) ++ 2.7 (2012 est.) ++ 2.7 (2011 est.) ++ 2.7 (2010 est.)"
-    }
-  },
-  "Energy": {
-    "Electricity - production": {
-      "text": "25 million kWh (2012 est.)"
-    },
-    "Electricity - consumption": {
-      "text": "23.25 million kWh (2012 est.)"
-    },
-    "Electricity - exports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - imports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "10,000 kW (2012 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2014 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2015 est.)"
-    },
-    "Refined petroleum products - production": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "570 bbl/day (2013 est.)"
-    },
-    "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - imports": {
-      "text": "568.5 bbl/day (2012 est.)"
-    },
-    "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "88,010 Mt (2012 est.)"
+      "text": "the US dollar is used"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "3,100"
+        "text": "2,400"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "59 (2014 est.)"
+        "text": "3 (2014 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "4,500"
+        "text": "15,500"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "86 (2014 est.)"
+        "text": "22 (2014 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "modern and fully digitalized"
+        "text": "digital switching equipment; modern services include telex, cellular, Internet, international calling, caller ID, and leased data circuits"
       },
       "domestic": {
-        "text": "combined fixed-line and mobile-cellular teledensity exceeds 100 per 100 persons"
+        "text": "Majuro Atoll and Ebeye and Kwajalein islands have regular, seven-digit, direct-dial telephones; other islands interconnected by high frequency radiotelephone (used mostly for government purposes) and mini-satellite telephones"
       },
       "international": {
-        "text": "country code - 1-664; landing point for the East Caribbean Fiber System (ECFS) optic submarine cable with links to 13 other islands in the eastern Caribbean extending from the British Virgin Islands to Trinidad (2011)"
+        "text": "country code - 692; satellite earth stations - 2 Intelsat (Pacific Ocean); US Government satellite communications system on Kwajalein (2005)"
       }
     },
     "Broadcast media": {
-      "text": "Radio Montserrat, a public radio broadcaster, transmits on 1 station and has a repeater transmission to a second station; repeater transmissions from the GEM Radio Network of Trinidad and Tobago provide another 2 radio stations; cable and satellite TV available (2007)"
+      "text": "no TV broadcast station; a cable network is available on Majuro with programming via videotape replay and satellite relays; 4 radio broadcast stations; American Armed Forces Radio and Television Service (AFRTS) provides satellite radio and television service to Kwajalein Atoll (2009)"
     },
     "Radio broadcast stations": {
-      "text": "AM 1, FM 2, shortwave 0 (2008)"
+      "text": "AM 1, FM 3, shortwave 0 (additionally, the American Armed Forces Radio and Television Service (Central Pacific Network) operates one FM and one AM station on Kwajalein Island) (2005)"
     },
     "Television broadcast stations": {
-      "text": "1 (1997)"
+      "text": "2 (both are US military stations; Marshalls Broadcasting Service, a cable company, operates on Majuro) (2005)"
     },
     "Internet country code": {
-      "text": ".ms"
+      "text": ".mh"
     },
     "Internet users": {
       "total": {
-        "text": "1,200"
+        "text": "1,700"
       },
       "percent of population": {
-        "text": "23.5% (2009)"
+        "text": "2.4% (2014 est.)"
       }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "1 (2013)"
+      "text": "15 (2013)"
     },
     "Airports - with paved runways": {
       "total": {
-        "text": "1"
+        "text": "4"
       },
-      "under 914 m": {
+      "1,524 to 2,437 m": {
+        "text": "3"
+      },
+      "914 to 1,523 m": {
         "text": "1 (2013)"
       }
     },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "11"
+      },
+      "914 to 1,523 m": {
+        "text": "10"
+      },
+      "under 914 m": {
+        "text": " ++ 1 (2013)"
+      }
+    },
     "Roadways": {
+      "total": {
+        "text": "2,028 km"
+      },
+      "paved": {
+        "text": "75 km"
+      },
       "note": {
-        "text": "volcanic eruptions that began in 1995 destroyed most of the 227 km road system; a new road infrastructure has been built on the north end of the island (2008)"
+        "text": "roads are mostly unimproved (2007)"
+      }
+    },
+    "Merchant marine": {
+      "total": {
+        "text": "1,593"
+      },
+      "by type": {
+        "text": "barge carrier 1, bulk carrier 524, cargo 65, carrier 1, chemical tanker 351, container 226, liquefied gas 88, passenger 7, passenger/cargo 1, petroleum tanker 297, refrigerated cargo 13, roll on/roll off 9, vehicle carrier 10"
+      },
+      "foreign-owned": {
+        "text": "1,465 (Belgium 1, Bermuda 35, Brazil 1, Canada 8, China 14, Croatia 12, Cyprus 40, Denmark 7, Egypt 1, France 7, Germany 248, Greece 408, Hong Kong 3, India 10, Indonesia 1, Iraq 2, Ireland 6, Italy 1, Japan 59, Jersey 11, Kuwait 2, Latvia 19, Malaysia 11, Mexico 2, Monaco 30, Netherlands 21, Norway 75, Pakistan 1, Qatar 29, Romania 2, Russia 5, Singapore 30, Slovenia 6, South Korea 41, Sweden 1, Switzerland 12, Taiwan 8, Turkey 70, UAE 12, UK 12, Ukraine 1, US 200) (2010)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "Little Bay, Plymouth"
+        "text": "Enitwetak Island, Kwajalein, Majuro"
       }
     }
   },
   "Military": {
     "Military branches": {
-      "text": "no regular military forces; Royal Montserrat Police Force (2011)"
+      "text": "no regular military forces; Marshall Islands Police (2012)"
     },
     "Manpower available for military service": {
       "males age 16-49": {
-        "text": "1,353 (2010 est.)"
+        "text": "16,446 (2010 est.)"
       }
     },
     "Manpower fit for military service": {
       "males age 16-49": {
-        "text": "1,135"
+        "text": "13,568"
       },
       "females age 16-49": {
-        "text": "1,223 (2010 est.)"
+        "text": "13,606 (2010 est.)"
       }
     },
     "Manpower reaching militarily significant age annually": {
       "male": {
-        "text": "35"
+        "text": "653"
       },
       "female": {
-        "text": "34 (2010 est.)"
+        "text": "631 (2010 est.)"
       }
     },
     "Military - note": {
-      "text": "defense is the responsibility of the UK"
+      "text": "defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "claims US territory of Wake Island"
     },
-    "Illicit drugs": {
-      "text": "transshipment point for South American narcotics destined for the US and Europe"
+    "Trafficking in persons": {
+      "current situation": {
+        "text": "The Marshall Islands is a source and destination country for Marshallese women and girls and women from East Asia subjected to sex trafficking; Marshallese and foreign women are reportedly forced into prostitution in businesses frequented by crew members of fishing and transshipping vessels; some Chinese women are recruited to the Marshall Islands with promises of legitimate work and are subsequently forced into prostitution"
+      },
+      "tier rating": {
+        "text": "Tier 2 Watch List – The Marshall Islands do not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; government officials publically acknowledged the existence of human trafficking and an investigation into women being forced into prostitution was initiated in 2013; the government has not provided evidence of implementing 2011 anti-trafficking legislation or providing training to law enforcement or judges on the law; no trafficking prosecutions have been reported since 2011; in 2013, no proactive efforts were made to identify victims among vulnerable groups, such as women in prostitution or foreign men in the fishing industry; several public awareness campaigns were conducted in 2013 (2014)"
+      }
     }
   }
 }

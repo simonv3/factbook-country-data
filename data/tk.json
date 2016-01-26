@@ -1,225 +1,165 @@
 {
   "Introduction": {
     "Background": {
-      "text": "The islands were part of the UK's Jamaican colony until 1962, when they assumed the status of a separate crown colony upon Jamaica's independence. The governor of The Bahamas oversaw affairs from 1965 to 1973. With Bahamian independence, the islands received a separate governor in 1973. Although independence was agreed upon for 1982, the policy was reversed and the islands remain a British overseas territory."
+      "text": "Originally settled by Polynesian emigrants from surrounding island groups, the Tokelau Islands were made a British protectorate in 1889. They were transferred to New Zealand administration in 1925. Referenda held in 2006 and 2007 to change the status of the islands from that of a New Zealand territory to one of free association with New Zealand did not meet the needed threshold for approval."
     }
   },
   "Geography": {
     "Location": {
-      "text": "two island groups in the North Atlantic Ocean, southeast of The Bahamas, north of Haiti"
+      "text": "Oceania, group of three atolls in the South Pacific Ocean, about one-half of the way from Hawaii to New Zealand"
     },
     "Geographic coordinates": {
-      "text": "21 45 N, 71 35 W"
+      "text": "9 00 S, 172 00 W"
     },
     "Map references": {
-      "text": "Central America and the Caribbean"
+      "text": "Oceania"
     },
     "Area": {
       "total": {
-        "text": "948 sq km"
+        "text": "12 sq km"
       },
       "land": {
-        "text": "948 sq km"
+        "text": "12 sq km"
       },
       "water": {
         "text": "0 sq km"
       }
     },
     "Area - comparative": {
-      "text": "2.5 times the size of Washington, DC"
+      "text": "about 17 times the size of the National Mall in Washington, DC"
     },
     "Land boundaries": {
       "text": "0 km"
     },
     "Coastline": {
-      "text": "389 km"
+      "text": "101 km"
     },
     "Maritime claims": {
       "territorial sea": {
         "text": "12 nm"
       },
-      "exclusive fishing zone": {
+      "exclusive economic zone": {
         "text": "200 nm"
       }
     },
     "Climate": {
-      "text": "tropical; marine; moderated by trade winds; sunny and relatively dry"
+      "text": "tropical; moderated by trade winds (April to November)"
     },
     "Terrain": {
-      "text": "low, flat limestone; extensive marshes and mangrove swamps"
+      "text": "low-lying coral atolls enclosing large lagoons"
     },
     "Elevation extremes": {
       "lowest point": {
-        "text": "Caribbean Sea 0 m"
+        "text": "Pacific Ocean 0 m"
       },
       "highest point": {
-        "text": "Flamingo Hill 48 m"
+        "text": "unnamed location 5 m"
       }
     },
     "Natural resources": {
-      "text": "spiny lobster, conch"
+      "text": "NEGL"
     },
     "Land use": {
       "agricultural land": {
-        "text": "1.1% ++ arable land 1.1%; permanent crops 0%; permanent pasture 0%"
+        "text": "60% ++ arable land 0%; permanent crops 60%; permanent pasture 0%"
       },
       "forest": {
-        "text": "36.2%"
+        "text": "0%"
       },
       "other": {
-        "text": "62.7% (2011 est.)"
+        "text": "40% (2011 est.)"
       }
     },
     "Irrigated land": {
       "text": "NA"
     },
     "Natural hazards": {
-      "text": "frequent hurricanes"
+      "text": "lies in Pacific typhoon belt"
     },
     "Environment - current issues": {
-      "text": "limited natural freshwater resources, private cisterns collect rainwater"
+      "text": "limited natural resources and overcrowding are contributing to emigration to New Zealand"
     },
     "Geography - note": {
-      "text": "about 40 islands (eight inhabited)"
+      "text": "consists of three atolls (Atafu, Fakaofo, Nukunonu), each with a lagoon surrounded by a number of reef-bound islets of varying length and rising to over 3 m above sea level"
     }
   },
   "People and Society": {
     "Nationality": {
       "noun": {
-        "text": "none"
+        "text": "Tokelauan(s)"
       },
       "adjective": {
-        "text": "none"
+        "text": "Tokelauan"
       }
     },
     "Ethnic groups": {
-      "text": "black 87.6%, white 7.9%, mixed 2.5%, East Indian 1.3%, other 0.7% (2006)"
+      "text": "Tokelauan 65.3%, part Tokelauan/Samoan 8.7%, part Tokelauan/Tuvaluan 6.9%, part Tokelauan/other Pacific islander 1.9%, part Tokelauan/European 1%, Samoan 6.7%, Tuvaluan 2.8%, other Pacific islander 1.1%, other 5.1%, unspecified 0.4% (2011 est.)"
     },
     "Languages": {
-      "text": "English (official)"
+      "text": "Tokelauan 93.5% (a Polynesian language), English 58.9%, Samoan 45.5%, Tuvaluan 11.6%, Kiribati 2.7%, other 2.5%, none 4.1%, unspecified 0.6%",
+      "note": {
+        "text": "shares sum to more than 100% because some respondents gave more than one answer on the census (2011 ests.)"
+      }
     },
     "Religions": {
-      "text": "Protestant 72.8% (Baptist 35.8%, Church of God 11.7%, Anglican 10%, Methodist 9.3%, Seventh-Day Adventist 6%), Roman Catholic 11.4%, Jehovah's Witnesses 1.8%, other 14%"
+      "text": "Congregational Christian Church 58.2%, Roman Catholic 36.6%, Presbyterian 1.8%, other Christian 2.8%, Spiritualism and New Age 0.1%, unspecified 0.5% (2011 est.)"
     },
     "Population": {
-      "text": "50,280 (July 2015 est.)"
-    },
-    "Age structure": {
-      "0-14 years": {
-        "text": "22.01% (male 5,637/female 5,429)"
-      },
-      "15-24 years": {
-        "text": "14.64% (male 3,614/female 3,748)"
-      },
-      "25-54 years": {
-        "text": "53.37% (male 13,598/female 13,238)"
-      },
-      "55-64 years": {
-        "text": "5.7% (male 1,558/female 1,309)"
-      },
-      "65 years and over": {
-        "text": "4.27% (male 958/female 1,191) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
-      }
-    },
-    "Median age": {
-      "total": {
-        "text": "32.4 years"
-      },
-      "male": {
-        "text": "32.7 years"
-      },
-      "female": {
-        "text": "32 years (2015 est.)"
-      }
+      "text": "1,337 (July 2014 est.)"
     },
     "Population growth rate": {
-      "text": "2.3% (2015 est.)"
-    },
-    "Birth rate": {
-      "text": "16.13 births/1,000 population (2015 est.)"
-    },
-    "Death rate": {
-      "text": "3.1 deaths/1,000 population (2015 est.)"
-    },
-    "Net migration rate": {
-      "text": "9.94 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.01% (2014 est.)"
     },
     "Urbanization": {
       "urban population": {
-        "text": "92.2% of total population (2015)"
+        "text": "0% of total population (2015)"
       },
       "rate of urbanization": {
-        "text": "2.48% annual rate of change (2010-15 est.)"
+        "text": "0% annual rate of change (2010-15 est.)"
       }
-    },
-    "Major urban areas - population": {
-      "text": "GRAND TURK (capital) 5,000 (2014)"
     },
     "Sex ratio": {
-      "at birth": {
-        "text": "1.05 male(s)/female"
-      },
-      "0-14 years": {
-        "text": "1.04 male(s)/female"
-      },
-      "15-24 years": {
-        "text": "0.96 male(s)/female"
-      },
-      "25-54 years": {
-        "text": "1.03 male(s)/female"
-      },
-      "55-64 years": {
-        "text": "1.19 male(s)/female"
-      },
-      "65 years and over": {
-        "text": "0.8 male(s)/female"
-      },
-      "total population": {
-        "text": "1.02 male(s)/female (2015 est.)"
-      }
+      "text": "NA"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "10.65 deaths/1,000 live births"
+        "text": "NA"
       },
       "male": {
-        "text": "13.29 deaths/1,000 live births"
+        "text": "NA"
       },
       "female": {
-        "text": "7.88 deaths/1,000 live births (2015 est.)"
+        "text": "NA"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "79.69 years"
+        "text": "NA"
       },
       "male": {
-        "text": "76.94 years"
+        "text": "NA"
       },
       "female": {
-        "text": "82.57 years (2015 est.)"
+        "text": "NA"
       }
     },
     "Total fertility rate": {
-      "text": "1.7 children born/woman (2015 est.)"
+      "text": "NA"
     },
     "Drinking water source": {
       "improved": {
-        "text": " ++ urban: 87% of population ++ rural: 87% of population ++ total: 87.1% of population"
+        "text": " ++ rural: 100% of population ++ total: 100% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 13% of population ++ rural: 13% of population ++ total: 12.9% of population (2007 est.)"
+        "text": " ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 81.4% of population ++ rural: 81.4% of population ++ total: 81.4% of population"
+        "text": " ++ rural: 90.5% of population ++ total: 90.5% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 18.6% of population ++ rural: 18.6% of population ++ total: 18.6% of population (2007 est.)"
+        "text": " ++ rural: 9.5% of population ++ total: 9.5% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -233,9 +173,6 @@
     },
     "Education expenditures": {
       "text": "NA"
-    },
-    "People - note": {
-      "text": "destination and transit point for illegal Haitian immigrants bound for the Turks and Caicos Islands, The Bahamas, and the US"
     }
   },
   "Government": {
@@ -244,399 +181,228 @@
         "text": "none"
       },
       "conventional short form": {
-        "text": "Turks and Caicos Islands"
-      },
-      "abbreviation": {
-        "text": "TCI"
+        "text": "Tokelau"
       }
     },
     "Dependency status": {
-      "text": "overseas territory of the UK"
+      "text": "self-administering territory of New Zealand; note - Tokelau and New Zealand have agreed to a draft constitution as Tokelau moves toward free association with New Zealand; a UN-sponsored referendum on self governance in October 2007 did not produce the two-thirds majority vote necessary for changing the political status"
     },
     "Government type": {
       "text": "NA"
     },
     "Capital": {
-      "name": {
-        "text": "Grand Turk (Cockburn Town)"
-      },
-      "geographic coordinates": {
-        "text": "21 28 N, 71 08 W"
-      },
+      "text": "none; each atoll has its own administrative center",
       "time difference": {
-        "text": "UTC-5 (same time as Washington, DC, during Standard Time)"
-      },
-      "daylight saving time": {
-        "text": "+1hr, begins second Sunday in March; ends first Sunday in November"
+        "text": "UTC+13 (18 hours ahead of Washington, DC during Standard Time)"
       }
     },
     "Administrative divisions": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of New Zealand)"
     },
     "Independence": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of New Zealand)"
     },
     "National holiday": {
-      "text": "Constitution Day, 30 August (1976)"
+      "text": "Waitangi Day (Treaty of Waitangi established British sovereignty over New Zealand), 6 February (1840)"
     },
     "Constitution": {
-      "text": "several previous; latest signed 7 August 2012, effective 15 October 2012 (Turks and Caicos Constitution Order 2011) (2015)"
+      "text": "many previous; latest effective 1 January 1949 (Tokelau Islands Act 1948); amended many times, last in 2007 (2015)"
     },
     "Legal system": {
-      "text": "mixed legal system of English common law and civil law"
+      "text": "common law system of New Zealand"
     },
     "Suffrage": {
-      "text": "18 years of age; universal"
+      "text": "21 years of age; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor Peter BECKINGHAM (since 9 October 2013)"
+        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor General of New Zealand Anand SATYANAND (since 23 August 2006); New Zealand is represented by Administrator Jonathan KINGS (since February 2011)"
       },
       "head of government": {
-        "text": "Premier Rufus EWING (since 13 November 2012)"
+        "text": "Siopili PEREZ (since 23 February 2015); note - position rotates annually among the 3 Faipule (village leaders)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the governor from among members of the House of Assembly"
+        "text": "the Council for the Ongoing Government of Tokelau functions as a cabinet; consists of 3 Faipule (village leaders) and 3 Pulenuku (village mayors)"
       },
       "elections/appointments": {
-        "text": "the monarch is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party is appointed premier by the governor"
+        "text": "the monarchy is hereditary; governor general appointed by the monarch; administrator appointed by the Minister of Foreign Affairs and Trade in New Zealand; head of government chosen from the Council of Faipule to serve a 1-year term"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral House of Assembly (19 seats; 15 members in multi-seat constituencies and a single all-islands constituency directly elected by simple majority vote and 4 appointed by the governor on the advice of the premier and opposition party; members serve 4-year terms)"
+        "text": "unicameral General Fono (20 seats apportioned by island - Atafu 7, Fakaofo 7, Nukunonu 6; members directly elected by simple majority vote to serve 3-year terms); note - the Tokelau Amendment Act of 1996 confers limited legislative power to the General Fono"
       },
       "elections": {
-        "text": "last held on 9 November 2012 (next to be held in 2016)"
+        "text": "last held on 23 January 2014 (next to be held in 2017)"
       },
       "election results": {
-        "text": "percent of vote - NA; seats by party - PNP 8, PDM 7"
+        "text": "independent 20"
       }
     },
     "Judicial branch": {
-      "highest resident court(s)": {
-        "text": "Supreme Court (consists of the chief justice and such number of other judges as determined by the governor); Court of Appeal (consists of the court president and 2 justices); note - appeals beyond the Supreme Court are heard by the Judicial Committee of the Privy Council (in London)"
+      "highest court(s)": {
+        "text": "Court of Appeal in New Zealand (consists of the court president and 8 judges sitting in 3- or 5-judge panels depending on the case)"
       },
       "judge selection and term of office": {
-        "text": "Supreme Court and Appeals Court judges appointed by the governor in accordance with the Judicial Service Commission, a 3-member body of high level judicial officials; Supreme Court judges appointed until mandatory retirement at age 65, but can be extended to age 70; Appeals Court judge tenure determined by individual terms of appointment"
+        "text": "judges nominated by the Judicial Selection Committee and approved by three-quarters majority of the Parliament; judge tenure NA"
       },
       "subordinate courts": {
-        "text": "magistrates' courts"
+        "text": "High Court, in New Zealand; Council of Elders or Taupulega"
       }
     },
     "Political parties and leaders": {
-      "text": "People's Democratic Movement or PDM [Oswald SKIPPINGS] ++ People's Progressive Party ++ Progressive National Party or PNP [Rufus EWING]"
+      "text": "none"
     },
     "Political pressure groups and leaders": {
-      "text": "NA"
+      "text": "none"
     },
     "International organization participation": {
-      "text": "Caricom (associate), CDB, Interpol (subbureau), UPU"
+      "text": "PIF (associate member), SPC, UNESCO (associate), UPU"
     },
     "Diplomatic representation in the US": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of New Zealand)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of New Zealand)"
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and the colonial shield centered on the outer half of the flag; the shield is yellow and displays a conch shell, a spiny lobster, and Turks Head cactus - three common elements of the islands' biota"
+      "text": "a yellow stylized Tokelauan canoe on a dark blue field sails toward the manu - the Southern Cross constellation of four, white, five-pointed stars at the hoist side; the Southern Cross represents the role of Christianity in Tokelauan culture and, in conjunction with the canoe, symbolizes the country navigating into the future; the color yellow indicates happiness and peace, and the blue field represents the ocean on which the community relies"
     },
     "National symbol(s)": {
-      "text": "conch shell, Turks Head cactus"
+      "text": "tuluma (fishing tackle box); national colors: blue, yellow, white"
     },
     "National anthem": {
       "name": {
-        "text": "\"This Land of Ours\""
+        "text": "\"Te Atua\" (For the Almighty)"
       },
       "lyrics/music": {
-        "text": "Conrad HOWELL"
+        "text": "unknown/Falani KALOLO"
       },
       "note": {
-        "text": "serves as a local anthem; as a territory of the United Kingdom, \"God Save the Queen\" is the official anthem (see United Kingdom)"
+        "text": "adopted 2008; in preparation for eventual self governance, Tokelau held a national contest to choose an anthem; as a territory of New Zealand, \"God Defend New Zealand\" and \"God Save the Queen\" are official (see New Zealand)"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The Turks and Caicos economy is based on tourism, offshore financial services, and fishing. Most capital goods and food for domestic consumption are imported. The US is the leading source of tourists, accounting for more than three-quarters of the more than 1 million visitors that arrived in 2013. Three-quarters of the visitors came by ship. Major sources of government revenue also include fees from offshore financial activities and customs receipts."
+      "text": "Tokelau's small size (three villages), isolation, and lack of resources greatly restrain economic development and confine agriculture to the subsistence level. The people rely heavily on aid from New Zealand - about $15 million annually in FY12/13 and FY13/14 - to maintain public services. New Zealand's support amounts to 80% of Tokelau's recurrent government budget. An international trust fund, currently worth nearly $32 million, was established in 2004 by New Zealand to provide Tokelau an independent source of revenue. The principal sources of revenue come from sales of copra, postage stamps, souvenir coins, and handicrafts. Money is also remitted to families from relatives in New Zealand."
     },
     "GDP (purchasing power parity)": {
-      "text": "$632 million (2007 est.) ++ $568.3 million (2006 est.)"
+      "text": "$1.5 million (1993 est.)"
     },
     "GDP (official exchange rate)": {
       "text": "$NA"
     },
     "GDP - real growth rate": {
-      "text": "11.2% (2007 est.)"
+      "text": "NA%"
     },
     "GDP - per capita (PPP)": {
-      "text": "$29,100 (2007 est.)"
-    },
-    "GDP - composition, by end use": {
-      "household consumption": {
-        "text": "23.4%"
-      },
-      "government consumption": {
-        "text": "19.9%"
-      },
-      "investment in fixed capital": {
-        "text": "63.1%"
-      },
-      "investment in inventories": {
-        "text": "0%"
-      },
-      "exports of goods and services": {
-        "text": "78%"
-      },
-      "imports of goods and services": {
-        "text": "-83.9% ++  (2014 est.)"
-      }
+      "text": "$1,000 (1993 est.)"
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "0.5%"
+        "text": "NA%"
       },
       "industry": {
-        "text": "10.1%"
+        "text": "NA%"
       },
       "services": {
-        "text": "89.4% (2014 est.)"
+        "text": "NA%"
       }
     },
     "Agriculture - products": {
-      "text": "corn, beans, cassava (manioc, tapioca), citrus fruits; fish"
+      "text": "coconuts, copra, breadfruit, papayas, bananas; pigs, poultry, goats; fish"
     },
     "Industries": {
-      "text": "tourism, offshore financial services"
-    },
-    "Industrial production growth rate": {
-      "text": "3% (2014 est.)"
+      "text": "small-scale enterprises for copra production, woodworking, plaited craft goods; stamps, coins; fishing"
     },
     "Labor force": {
-      "text": "4,848 (1990 est.)"
-    },
-    "Labor force - by occupation": {
-      "note": {
-        "text": "about 33% in government and 20% in agriculture and fishing; significant numbers in tourism, financial, and other services"
-      }
+      "text": "440 (2001)"
     },
     "Unemployment rate": {
-      "text": "10% (1997 est.)"
+      "text": "NA%"
     },
     "Population below poverty line": {
       "text": "NA%"
     },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA%"
-      },
-      "highest 10%": {
-        "text": "NA%"
-      }
-    },
     "Budget": {
       "revenues": {
-        "text": "$212.2 million"
+        "text": "$430,800"
       },
       "expenditures": {
-        "text": "$181.5 million (2014 est.)"
+        "text": "$2.8 million (1987 est.)"
       }
     },
     "Fiscal year": {
-      "text": "calendar year"
+      "text": "1 April - 31 March"
     },
     "Inflation rate (consumer prices)": {
-      "text": "3% (2014 est.) ++ 3% (2013 est.)"
+      "text": "NA%"
     },
     "Exports": {
-      "text": "$24.77 million (2008 est.)"
+      "text": "$0 (2002)"
     },
     "Exports - commodities": {
-      "text": "lobster, dried and fresh conch, conch shells"
+      "text": "stamps, copra, handicrafts"
     },
     "Imports": {
-      "text": "$591.3 million (2008 est.)"
+      "text": "$969,200 (2002)"
     },
     "Imports - commodities": {
-      "text": "food and beverages, tobacco, clothing, manufactures, construction materials"
-    },
-    "Debt - external": {
-      "text": "$NA"
+      "text": "foodstuffs, building materials, fuel"
     },
     "Exchange rates": {
-      "text": "the US dollar is used"
+      "text": "New Zealand dollars (NZD) per US dollar - ++ 1.2039 (2014) ++ 1.2187 (2013) ++ 1.23 (2012) ++ 1.263 (2011) ++ 1.3874 (2010)"
     }
   },
   "Energy": {
-    "Electricity - production": {
-      "text": "180 million kWh (2012 est.)"
-    },
-    "Electricity - consumption": {
-      "text": "167.4 million kWh (2012 est.)"
-    },
-    "Electricity - exports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - imports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "48,000 kW (2012 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2014 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
     "Crude oil - proved reserves": {
       "text": "0 bbl (1 January 2015 est.)"
-    },
-    "Refined petroleum products - production": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "1,300 bbl/day (2013 est.)"
-    },
-    "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - imports": {
-      "text": "1,261 bbl/day (2012 est.)"
-    },
-    "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "159,400 Mt (2012 est.)"
     }
   },
   "Communications": {
     "Telephone system": {
       "general assessment": {
-        "text": "fully digital system with international direct dialing"
+        "text": "modern satellite-based communications system"
       },
       "domestic": {
-        "text": "full range of services available; GSM wireless service available"
+        "text": "radiotelephone service between islands"
       },
       "international": {
-        "text": "country code - 1-649; the Americas Region Caribbean Ring System (ARCOS-1) fiber optic telecommunications submarine cable provides connectivity to South and Central America, parts of the Caribbean, and the US; satellite earth station - 1 Intelsat (Atlantic Ocean) (2011)"
+        "text": "country code - 690; radiotelephone service to Samoa; government-regulated telephone service (TeleTok); satellite earth stations - 3 (2009)"
       }
     },
     "Broadcast media": {
-      "text": "no local terrestrial TV stations, broadcasts from the Bahamas can be received and multi-channel cable and satellite TV services are available; government-run radio network operates alongside private broadcasters with a total of about 15 stations (2007)"
+      "text": "no TV stations; each atoll operates a radio service that provides shipping news and weather reports (2009)"
     },
     "Radio broadcast stations": {
-      "text": "AM 2, FM 7, shortwave 0 (2003)"
-    },
-    "Television broadcast stations": {
-      "text": "0 (broadcasts received from The Bahamas; 2 cable television networks) (2003)"
+      "text": "AM NA, FM NA, shortwave NA (one radio station provides service to all islands) (2002)"
     },
     "Internet country code": {
-      "text": ".tc"
+      "text": ".tk"
+    },
+    "Internet users": {
+      "total": {
+        "text": "800"
+      },
+      "percent of population": {
+        "text": "55.4% (2008)"
+      }
     }
   },
   "Transportation": {
-    "Airports": {
-      "text": "8 (2013)"
-    },
-    "Airports - with paved runways": {
-      "total": {
-        "text": "6"
-      },
-      "2,438 to 3,047 m": {
-        "text": "1"
-      },
-      "1,524 to 2,437 m": {
-        "text": "3"
-      },
-      "914 to 1,523 m": {
-        "text": "1"
-      },
-      "under 914 m": {
-        "text": "1 (2013)"
-      }
-    },
-    "Airports - with unpaved runways": {
-      "total": {
-        "text": "2"
-      },
-      "under 914 m": {
-        "text": " ++ 2 (2013)"
-      }
-    },
-    "Roadways": {
-      "total": {
-        "text": "121 km"
-      },
-      "paved": {
-        "text": "24 km"
-      },
-      "unpaved": {
-        "text": "97 km (2003)"
-      }
-    },
     "Ports and terminals": {
-      "major seaport(s)": {
-        "text": "Cockburn Harbour, Grand Turk, Providenciales"
-      }
+      "text": "none; offshore anchorage only"
     }
   },
   "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "11,842"
-      },
-      "females age 16-49": {
-        "text": "11,755 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "338"
-      },
-      "female": {
-        "text": "342 (2010 est.)"
-      }
-    },
     "Military - note": {
-      "text": "defense is the responsibility of the UK"
+      "text": "defense is the responsibility of New Zealand"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "have received Haitians fleeing economic and civil disorder"
-    },
-    "Illicit drugs": {
-      "text": "transshipment point for South American narcotics destined for the US and Europe"
+      "text": "Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
     }
   }
 }
