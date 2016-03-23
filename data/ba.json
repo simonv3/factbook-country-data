@@ -1,152 +1,138 @@
 {
   "Introduction": {
     "Background": {
-      "text": "In 1783, the Sunni Al-Khalifa family took power in Bahrain. In order to secure these holdings, it entered into a series of treaties with the UK during the 19th century that made Bahrain a British protectorate. The archipelago attained its independence in 1971. Facing declining oil reserves, Bahrain has turned to petroleum processing and refining and has become an international banking center. Bahrain's small size and central location among Gulf countries require it to play a delicate balancing act in foreign affairs among its larger neighbors. ++ The Sunni-led government has struggled to manage relations with its large Shia-majority population. In early 2011, amid Arab uprisings elsewhere in the region, the Bahraini Government confronted similar protests at home with police and military action, including deploying Gulf Cooperation Council security forces to Bahrain. Ongoing dissatisfaction with the political status quo has led to sporadic clashes between demonstrators and security forces."
+      "text": "Bosnia and Herzegovina declared sovereignty in October 1991 and independence from the former Yugoslavia on 3 March 1992 after a referendum boycotted by ethnic Serbs. The Bosnian Serbs - supported by neighboring Serbia and Montenegro - responded with armed resistance aimed at partitioning the republic along ethnic lines and joining Serb-held areas to form a \"Greater Serbia.\" In March 1994, Bosniaks and Croats reduced the number of warring factions from three to two by signing an agreement creating a joint Bosniak-Croat Federation of Bosnia and Herzegovina. On 21 November 1995, in Dayton, Ohio, the warring parties initialed a peace agreement that ended three years of interethnic civil strife (the final agreement was signed in Paris on 14 December 1995). ++ The Dayton Peace Accords retained Bosnia and Herzegovina's international boundaries and created a multiethnic and democratic government charged with conducting foreign, diplomatic, and fiscal policy. Also recognized was a second tier of government composed of two entities roughly equal in size: the Bosniak-Bosnian Croat Federation of Bosnia and Herzegovina and the Bosnian Serb-led Republika Srpska (RS). The Federation and RS governments are responsible for overseeing most government functions. Additionally, the Dayton Accords established the Office of the High Representative to oversee the implementation of the civilian aspects of the agreement. The Peace Implementation Council at its conference in Bonn in 1997 also gave the High Representative the authority to impose legislation and remove officials, the so-called \"Bonn Powers.\" An original NATO-led international peacekeeping force (IFOR) of 60,000 troops assembled in 1995 was succeeded over time by a smaller, NATO-led Stabilization Force (SFOR). In 2004, European Union peacekeeping troops (EUFOR) replaced SFOR. Currently EUFOR deploys around 600 troops in theater in a security assistance and training capacity."
     }
   },
   "Geography": {
     "Location": {
-      "text": "Middle East, archipelago in the Persian Gulf, east of Saudi Arabia"
+      "text": "Southeastern Europe, bordering the Adriatic Sea and Croatia"
     },
     "Geographic coordinates": {
-      "text": "26 00 N, 50 33 E"
+      "text": "44 00 N, 18 00 E"
     },
     "Map references": {
-      "text": "Middle East"
+      "text": "Europe"
     },
     "Area": {
       "total": {
-        "text": "760 sq km"
+        "text": "51,197 sq km"
       },
       "land": {
-        "text": "760 sq km"
+        "text": "51,187 sq km"
       },
       "water": {
-        "text": "0 sq km"
+        "text": "10 sq km"
       }
     },
     "Area - comparative": {
-      "text": "3.5 times the size of Washington, DC",
-      "Area comparison map": {
-        "text": null
-      }
+      "text": "slightly smaller than West Virginia"
     },
     "Land boundaries": {
-      "text": "0 km"
-    },
-    "Coastline": {
-      "text": "161 km"
-    },
-    "Maritime claims": {
-      "territorial sea": {
-        "text": "12 nm"
+      "total": {
+        "text": "1,543 km"
       },
-      "contiguous zone": {
-        "text": "24 nm"
-      },
-      "continental shelf": {
-        "text": "extending to boundaries to be determined"
+      "border countries": {
+        "text": "Croatia 956 km, Montenegro 242 km, Serbia 345 km"
       }
     },
+    "Coastline": {
+      "text": "20 km"
+    },
+    "Maritime claims": {
+      "text": "NA"
+    },
     "Climate": {
-      "text": "arid; mild, pleasant winters; very hot, humid summers"
+      "text": "hot summers and cold winters; areas of high elevation have short, cool summers and long, severe winters; mild, rainy winters along coast"
     },
     "Terrain": {
-      "text": "mostly low desert plain rising gently to low central escarpment"
+      "text": "mountains and valleys"
     },
     "Elevation extremes": {
       "lowest point": {
-        "text": "Persian Gulf 0 m"
+        "text": "Adriatic Sea 0 m"
       },
       "highest point": {
-        "text": "Jabal ad Dukhan 122 m"
+        "text": "Maglic 2,386 m"
       }
     },
     "Natural resources": {
-      "text": "oil, associated and nonassociated natural gas, fish, pearls"
+      "text": "coal, iron ore, bauxite, copper, lead, zinc, chromite, cobalt, manganese, nickel, clay, gypsum, salt, sand, timber, hydropower"
     },
     "Land use": {
       "agricultural land": {
-        "text": "11.3% ++ arable land 2.1%; permanent crops 3.9%; permanent pasture 5.3%"
+        "text": "42.2% ++ arable land 19.7%; permanent crops 2%; permanent pasture 20.5%"
       },
       "forest": {
-        "text": "0.7%"
+        "text": "42.8%"
       },
       "other": {
-        "text": "88% (2011 est.)"
+        "text": "15% (2011 est.)"
       }
     },
     "Irrigated land": {
-      "text": "40.15 sq km (2003)"
+      "text": "30 sq km (2003)"
     },
     "Total renewable water resources": {
-      "text": "0.12 cu km (2011)"
-    },
-    "Freshwater withdrawal (domestic/industrial/agricultural)": {
-      "total": {
-        "text": "0.36  cu km/yr (50%/6%/45%)"
-      },
-      "per capita": {
-        "text": "386  cu m/yr (2003)"
-      }
+      "text": "37.5 cu km (2011)"
     },
     "Natural hazards": {
-      "text": "periodic droughts; dust storms"
+      "text": "destructive earthquakes"
     },
     "Environment - current issues": {
-      "text": "desertification resulting from the degradation of limited arable land, periods of drought, and dust storms; coastal degradation (damage to coastlines, coral reefs, and sea vegetation) resulting from oil spills and other discharges from large tankers, oil refineries, and distribution stations; lack of freshwater resources (groundwater and seawater are the only sources for all water needs)"
+      "text": "air pollution from metallurgical plants; sites for disposing of urban waste are limited; water shortages and destruction of infrastructure because of the 1992-95 civil strife; deforestation"
     },
     "Environment - international agreements": {
       "party to": {
-        "text": "Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Ozone Layer Protection, Wetlands"
+        "text": "Air Pollution, Biodiversity, Climate Change, Climate Change-Kyoto Protocol, Desertification, Hazardous Wastes, Law of the Sea, Marine Life Conservation, Ozone Layer Protection, Wetlands"
       },
       "signed, but not ratified": {
         "text": "none of the selected agreements"
       }
     },
     "Geography - note": {
-      "text": "close to primary Middle Eastern petroleum sources; strategic location in Persian Gulf, through which much of the Western world's petroleum must transit to reach open ocean"
+      "text": "within Bosnia and Herzegovina's recognized borders, the country is divided into a joint Bosniak/Croat Federation (about 51% of the territory) and the Bosnian Serb-led Republika Srpska or RS (about 49% of the territory); the region called Herzegovina is contiguous to Croatia and Montenegro, and traditionally has been settled by an ethnic Croat majority in the west and an ethnic Serb majority in the east"
     }
   },
   "People and Society": {
     "Nationality": {
       "noun": {
-        "text": "Bahraini(s)"
+        "text": "Bosnian(s), Herzegovinian(s)"
       },
       "adjective": {
-        "text": "Bahraini"
+        "text": "Bosnian, Herzegovinian"
       }
     },
     "Ethnic groups": {
-      "text": "Bahraini 46%, Asian 45.5%, other Arabs 4.7%, African 1.6%, European 1%, other 1.2% (includes Gulf Co-operative country nationals, North and South Americans, and Oceanians) (2010 est.)"
+      "text": "Bosniak 48.4%, Serb 32.7%, Croat 14.6%, other 4.3%",
+      "note": {
+        "text": "final 2013 census results are pending; Bosniak has replaced Muslim as an ethnic term in part to avoid confusion with the religious term Muslim - an adherent of Islam (2013 est.)"
+      }
     },
     "Languages": {
-      "text": "Arabic (official), English, Farsi, Urdu"
+      "text": "Bosnian (official), Croatian (official), Serbian (official)"
     },
     "Religions": {
-      "text": "Muslim 70.3%, Christian 14.5%, Hindu 9.8%, Buddhist 2.5%, Jewish 0.6%, folk religion \nreligious affiliation:\n\n          \n\n"
+      "text": "Muslim 40%, Orthodox 31%, Roman Catholic 15%, other 14%"
     },
     "Population": {
-      "text": "1,346,613",
-      "note": {
-        "text": "immigrants make up almost 55% of the total population, according to UN data (2013) (July 2015 est.)"
-      }
+      "text": "3,867,055 (July 2015 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "19.48% (male 133,201/female 129,140)"
+        "text": "13.48% (male 269,086/female 252,189)"
       },
       "15-24 years": {
-        "text": "15.84% (male 120,073/female 93,182)"
+        "text": "12.36% (male 246,849/female 231,007)"
       },
       "25-54 years": {
-        "text": "56.13% (male 494,405/female 261,399)"
+        "text": "46.48% (male 902,704/female 894,787)"
       },
       "55-64 years": {
-        "text": "5.79% (male 50,466/female 27,501)"
+        "text": "14.01% (male 259,579/female 282,371)"
       },
       "65 years and over": {
-        "text": "2.77% (male 18,092/female 19,154) (2015 est.)"
+        "text": "13.67% (male 206,288/female 322,195) (2015 est.)"
       },
       "population pyramid": {
         "text": null
@@ -154,126 +140,129 @@
     },
     "Dependency ratios": {
       "total dependency ratio": {
-        "text": "31.4%"
+        "text": "40.7%"
       },
       "youth dependency ratio": {
-        "text": "28.2%"
+        "text": "19%"
       },
       "elderly dependency ratio": {
-        "text": "3.2%"
+        "text": "21.7%"
       },
       "potential support ratio": {
-        "text": "31.6% (2015 est.)"
+        "text": "4.6% (2015 est.)"
       }
     },
     "Median age": {
       "total": {
-        "text": "31.8 years"
+        "text": "41.2 years"
       },
       "male": {
-        "text": "33.3 years"
+        "text": "39.8 years"
       },
       "female": {
-        "text": "29.1 years (2015 est.)"
+        "text": "42.6 years (2015 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.41% (2015 est.)"
+      "text": "-0.13% (2015 est.)"
     },
     "Birth rate": {
-      "text": "13.66 births/1,000 population (2015 est.)"
+      "text": "8.87 births/1,000 population (2015 est.)"
     },
     "Death rate": {
-      "text": "2.69 deaths/1,000 population (2015 est.)"
+      "text": "9.75 deaths/1,000 population (2015 est.)"
     },
     "Net migration rate": {
-      "text": "13.09 migrant(s)/1,000 population (2015 est.)"
+      "text": "-0.38 migrant(s)/1,000 population (2015 est.)"
     },
     "Urbanization": {
       "urban population": {
-        "text": "88.8% of total population (2015)"
+        "text": "39.8% of total population (2015)"
       },
       "rate of urbanization": {
-        "text": "1.71% annual rate of change (2010-15 est.)"
+        "text": "0.14% annual rate of change (2010-15 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "MANAMA (capital) 411,000 (2015)"
+      "text": "SARAJEVO (capital) 318,000 (2015)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.03 male(s)/female"
+        "text": "1.07 male(s)/female"
       },
       "0-14 years": {
-        "text": "1.03 male(s)/female"
+        "text": "1.07 male(s)/female"
       },
       "15-24 years": {
-        "text": "1.29 male(s)/female"
+        "text": "1.07 male(s)/female"
       },
       "25-54 years": {
-        "text": "1.89 male(s)/female"
+        "text": "1.01 male(s)/female"
       },
       "55-64 years": {
-        "text": "1.84 male(s)/female"
+        "text": "0.92 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.95 male(s)/female"
+        "text": "0.64 male(s)/female"
       },
       "total population": {
-        "text": "1.54 male(s)/female (2015 est.)"
+        "text": "0.95 male(s)/female (2015 est.)"
       }
     },
     "Maternal mortality rate": {
-      "text": "15 deaths/100,000 live births (2015 est.)"
+      "text": "11 deaths/100,000 live births (2015 est.)"
     },
     "Infant mortality rate": {
       "total": {
-        "text": "9.35 deaths/1,000 live births"
+        "text": "5.72 deaths/1,000 live births"
       },
       "male": {
-        "text": "10.4 deaths/1,000 live births"
+        "text": "5.79 deaths/1,000 live births"
       },
       "female": {
-        "text": "8.26 deaths/1,000 live births (2015 est.)"
+        "text": "5.64 deaths/1,000 live births (2015 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "78.73 years"
+        "text": "76.55 years"
       },
       "male": {
-        "text": "76.53 years"
+        "text": "73.54 years"
       },
       "female": {
-        "text": "80.98 years (2015 est.)"
+        "text": "79.77 years (2015 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.78 children born/woman (2015 est.)"
+      "text": "1.27 children born/woman (2015 est.)"
+    },
+    "Contraceptive prevalence rate": {
+      "text": "45.8% (2011/12)"
     },
     "Health expenditures": {
-      "text": "4.9% of GDP (2013)"
+      "text": "9.6% of GDP (2013)"
     },
     "Physicians density": {
-      "text": "0.92 physicians/1,000 population (2012)"
+      "text": "1.93 physicians/1,000 population (2013)"
     },
     "Hospital bed density": {
-      "text": "2.1 beds/1,000 population (2012)"
+      "text": "3.5 beds/1,000 population (2010)"
     },
     "Drinking water source": {
       "improved": {
-        "text": " ++ urban: 100% of population ++ rural: 100% of population ++ total: 100% of population"
+        "text": " ++ urban: 99.7% of population ++ rural: 100% of population ++ total: 99.9% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 0% of population ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
+        "text": " ++ urban: 0.3% of population ++ rural: 0% of population ++ total: 0.1% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 99.2% of population ++ rural: 99.2% of population ++ total: 99.2% of population"
+        "text": " ++ urban: 98.9% of population ++ rural: 92% of population ++ total: 94.8% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 0.8% of population ++ rural: 0.8% of population ++ total 0.8% of population (2015 est.)"
+        "text": " ++ urban: 1.1% of population ++ rural: 8% of population ++ total: 5.2% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -286,466 +275,481 @@
       "text": "NA"
     },
     "Obesity - adult prevalence rate": {
-      "text": "34.1% (2014)"
+      "text": "19.2% (2014)"
+    },
+    "Children under the age of 5 years underweight": {
+      "text": "1.5% (2012)"
     },
     "Education expenditures": {
-      "text": "2.7% of GDP (2012)"
+      "text": "NA"
     },
     "Literacy": {
       "definition": {
         "text": "age 15 and over can read and write"
       },
       "total population": {
-        "text": "95.7%"
+        "text": "98.5%"
       },
       "male": {
-        "text": "96.9%"
+        "text": "99.5%"
       },
       "female": {
-        "text": "93.5% (2015 est.)"
+        "text": "97.5% (2015 est.)"
       }
     },
     "Child labor - children ages 5-14": {
       "total number": {
-        "text": "5,530"
+        "text": "24,722"
       },
       "percentage": {
-        "text": "5% (2000 est.)"
+        "text": "5% (2006 est.)"
       }
     },
     "Unemployment, youth ages 15-24": {
       "total": {
-        "text": "5%"
+        "text": "62.8%"
       },
       "male": {
-        "text": "2.5%"
+        "text": "62.8%"
       },
       "female": {
-        "text": "11.6% (2010 est.)"
+        "text": "62.8% (2012 est.)"
       }
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "Kingdom of Bahrain"
+        "text": "none"
       },
       "conventional short form": {
-        "text": "Bahrain"
+        "text": "Bosnia and Herzegovina"
       },
       "local long form": {
-        "text": "Mamlakat al Bahrayn"
+        "text": "none"
       },
       "local short form": {
-        "text": "Al Bahrayn"
+        "text": "Bosna i Hercegovina"
       },
       "former": {
-        "text": "Dilmun, State of Bahrain"
+        "text": "People's Republic of Bosnia and Herzegovina, Socialist Republic of Bosnia and Herzegovina"
       },
-      "note": {
-        "text": "the name means \"The Two Seas\" in Arabic and refers to the water bodies surrounding the archipelago"
+      "abbreviation": {
+        "text": "BiH"
       }
     },
     "Government type": {
-      "text": "constitutional monarchy"
+      "text": "federal democratic republic"
     },
     "Capital": {
       "name": {
-        "text": "Manama"
+        "text": "Sarajevo"
       },
       "geographic coordinates": {
-        "text": "26 14 N, 50 34 E"
+        "text": "43 52 N, 18 25 E"
       },
       "time difference": {
-        "text": "UTC+3 (8 hours ahead of Washington, DC, during Standard Time)"
+        "text": "UTC+1 (6 hours ahead of Washington, DC, during Standard Time)"
+      },
+      "daylight saving time": {
+        "text": "+1hr, begins last Sunday in March; ends last Sunday in October"
       }
     },
     "Administrative divisions": {
-      "text": "4 governorates (muhafazat, singular - muhafazah); Asimah (Capital), Janubiyah (Southern), Muharraq, Shamaliyah (Northern)",
-      "note": {
-        "text": "each governorate administered by an appointed governor"
-      }
+      "text": "2 first-order administrative divisions and 1 internationally supervised district* - the Bosniak-Croat Federation of Bosnia and Herzegovina (Federacija Bosne i Hercegovine), the Bosnian Serb-led Republika Srpska, Brcko District (Brcko Distrikt)*; note - Brcko District is in northeastern Bosnia and is a self-governing administrative unit under the sovereignty of Bosnia and Herzegovina and formally held in condominium between the two entities"
     },
     "Independence": {
-      "text": "15 August 1971 (from the UK)"
+      "text": "1 March 1992 (from Yugoslavia); note - referendum for independence completed on 1 March 1992; independence declared on 3 March 1992"
     },
     "National holiday": {
-      "text": "National Day, 16 December (1971); note - 15 August 1971 was the date of independence from the UK, 16 December 1971 was the date of independence from British protection"
+      "text": "National Day (Statehood Day), 25 November (1943); note - observed only in the Federation of Bosnia and Herzegovina entity"
     },
     "Constitution": {
-      "text": "adopted 14 February 2002; amended 2012 (2015)"
+      "text": "14 December 1995 (constitution included as part of the Dayton Peace Accords); amended several times, last in 2009; note - each of the entities has its own constitution (2015)"
     },
     "Legal system": {
-      "text": "mixed legal system of Islamic law, English common law, Egyptian civil, criminal, and commercial codes; customary law"
+      "text": "civil law system; Constitutional Court review of legislative acts"
     },
     "International law organization participation": {
-      "text": "has not submitted an ICJ jurisdiction declaration; non-party state to the ICCt"
+      "text": "has not submitted an ICJ jurisdiction declaration; accepts ICCt jurisdiction"
     },
     "Citizenship": {
       "birthright citizenship": {
-        "text": "no, unless the father was a citizen of Bahrain"
+        "text": "no, unless at least one parent is a citizen of Bosnia and Herzegovina"
       },
       "dual citizenship recognized": {
-        "text": "no"
+        "text": "yes, provided there is a bilateral agreement with the other state"
       },
       "residency requirement for naturalization": {
-        "text": "25 years; 15 years for Arab nationals"
+        "text": "8 years"
       }
     },
     "Suffrage": {
-      "text": "20 years of age; universal; note - Bahraini Cabinet in May 2011 endorsed a draft law lowering eligibility to 18 years"
+      "text": "18 years of age, 16 if employed; universal"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "King HAMAD bin Isa Al-Khalifa (since 6 March 1999); Crown Prince SALMAN bin Hamad Al-Khalifa (son of the monarch, born 21 October 1969)"
+        "text": "Chairman of the Presidency Dragan COVIC (chairman since 17 July 2015; presidency member since 17 November 2014 - Croat) ; other members of the three-member presidency rotate every eight months"
       },
       "head of government": {
-        "text": "Prime Minister KHALIFA bin Salman Al-Khalifa (since 1971); First Deputy Prime Minister SALMAN bin Hamad Al Khalifa (since 11 March 2013); Deputy Prime Ministers ALI bin Khalifa bin Salman Al-Khalifa, Jawad bin Salim al-ARAIDH (since 11 December 2006), KHALID bin Abdallah Al Khalifa (since November 2010), MUHAMMAD bin Mubarak Al-Khalifa (since September 2005)"
+        "text": "Chairman of the Council of Ministers Denis ZVIZDIC (since 11 February 2015)"
       },
       "cabinet": {
-        "text": "Cabinet appointed by the monarch"
+        "text": "Council of Ministers nominated by the council chairman, approved by the state-level House of Representatives"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; prime minister appointed by the monarch"
+        "text": "3-member presidency (one Bosniak, one Croat, one Serb) directly elected by simple majority popular vote for a 4-year term (eligible for a second term, but then ineligible for 4 years) by constituencies of the 3 ethnic groups; the chairmanship rotates every 8 months and resumes where it left off following each general election; election last held on 12 October 2014 (next to be held in October 2018); the chairman of the Council of Ministers appointed by the presidency and confirmed by the state-level House of Representatives"
+      },
+      "election results": {
+        "text": "percent of vote - Mladen IVANIC 48.7% - Serb seat; Dragan COVIC 52.2% - Croat seat; Bakir IZETBEGOVIC 32.9% - Bosniak seat"
+      },
+      "note": {
+        "text": "President of the Federation of Bosnia and Herzegovina Marinko CAVARA (since 11 February 2015); Vice Presidents Melika MAHMUTBEGOVIC (since 11 February 2015), Milan DUNOVIC (since 11 February 2015); President of the Republika Srpska Milorad DODIK (since 15 November 2010); Vice Presidents Ramiz SALKIC (since 24 November 2014), Josip JERKOVIC (since 24 November 2014)"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "bicameral National Assembly consists of the Consultative Council or Majlis al Shura (40 seats; members appointed by the king) and the Council of Representatives or Majlis al Nuwab (40 seats; members directly elected in single-seat constituencies by absolute majority vote in two rounds if needed; members serve 4-year renewable terms)"
+        "text": "bicameral Parliamentary Assembly or Skupstina consists of the House of Peoples or Dom Naroda (15 seats - 5 Bosniak, 5 Croat, 5 Serb; members designated by the Bosniak/Croat Federation's House of Peoples and the Republika Srpska's National Assembly to serve 4-year terms) and the state-level House of Representatives or Predstavnicki Dom (42 seats to include 28 seats allocated to the Federation of Bosnia and Herzegovina and 14 to the Republika Srpska; members directly elected by proportional representation vote to serve 4-year terms); note - the Bosniak/Croat Federation has a bicameral legislature that consists of the House of Peoples (58 seats - 17 Bosniak, 17 Croat, 17 Serb, 7 other) and the House of Representatives (98 seats; members directly elected by proportional representation vote to serve 4-year terms); Republika Srpska's unicameral legislature is the National Assembly (83 directly elected delegates serve four-year terms)"
       },
       "elections": {
-        "text": "Council of Representatives - last held in two rounds on 23 and 29 November 2014 (next in November 2018)"
+        "text": "House of Peoples - last constituted in 11 February 2015 (next likely to be constituted in 2018); state-level House of Representatives - election last held on 12 October 2014 (next to be held in October 2018)"
       },
       "election results": {
-        "text": "Council of Representatives - percent of vote by society - NA; seats by society - Al-Asalah (Sunni Salafi) 2, Islamic Minbar (Sunni Muslim Brotherhood) 1, independent 36, other 1; note - Bahrain has societies rather than parties"
+        "text": "House of Peoples - percent of vote by party/coalition - NA; seats by party/coalition - NA; state-level House of Representatives - percent of vote by party/coalition - Federation votes: SDA 27.9%, DF 15.3%, SBB BiH 14.4%, HDZ BiH-HSS-NHI-HKDU-HSP-dr. Ante Starcevic-HSP Herceg-Bosne 12.2%, SDP BiH 9.5%, HDZ-1990 4.1%, BPS-Sefer Halilovic 3.7%, A-SDA 2.3%, other 10.6%; Republika Srpska votes: SNSD 38.5%, SDS 32.6%, PDP-NDP 7.8%, DNS 5.7%, SDA 4.9%, other 10.5%; seats by party/coalition - SDA 10, SNSD 6, SDS 5, DF 5, SBB BiH 4, HDZ BiH-HSS-NHI-HKDU-HSP-Dr. Ante Starcevic-HSP Herceg-Bosne 4, SDP BiH 3, PDP-NDP 1, HDZ-1990 1, BPS-Sefer Halilovic 1, DNS 1, A-SDA 1"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "Court of Cassation or Supreme Court of Appeal (consists of the chairman and 3 judges); Constitutional Court (consists of the president and 6 members); High Sharia Court of Appeal"
-      },
-      "note": {
-        "text": "the judiciary of Bahrain is divided into civil law courts and sharia law courts"
+        "text": "BiH Constitutional Court (consists of 9 members); Court of BiH (consists of 44 national judges and 7 international judges organized into 3 divisions - Administrative, Appellate, and Criminal, which includes a War Crimes Chamber)"
       },
       "judge selection and term of office": {
-        "text": "Court of Cassation judges appointed by royal decree and serve for a specified tenure; Constitutional Court president and members appointed by the Higher Judicial Council, a body chaired by the monarch and includes judges from the Court of Cassation, sharia law courts, and Civil High Courts of Appeal; members serve 9-year terms; High Sharia Court of Appeal member appointment and tenure NA"
+        "text": "BiH Constitutional Court judges - 4 selected by the Bosniak/Croat Federation's House of Representatives, 2 selected by the Republika Srpska's National Assembly, and 3 non-Bosnian judges selected by the president of the European Court of Human Rights; Court of BiH president and national judges appointed by the High Judicial and Prosecutorial Council; Court of BiH president appointed for renewable 6-year term; other national judges appointed to serve until age 70; international judges recommended by the president of the Court of BiH and appointed by the High Representative for Bosnia and Herzegovina; international judges appointed to serve until age 70"
       },
       "subordinate courts": {
-        "text": "Civil High Courts of Appeal; middle and lower civil courts; High Sharia Court of Appeal; Senior Sharia Court"
+        "text": "the Federation has 10 cantonal courts plus a number of municipal courts; the Republika Srpska has a supreme court, 5 district courts, and a number of municipal courts"
       }
     },
     "Political parties and leaders": {
-      "note": {
-        "text": "political parties are prohibited but political societies were legalized per a July 2005 law ++ Al-Wefaq National Islamic Society or Al-Wefeq [Ali SALMAN] ++ Arab Islamic Center Society [Abdulrahman AL-BAKER] ++ Constitutional Gathering Society [Abdulrahman AL-BAKER] ++ Islamic Asalah [Abd al-Halim MURAD] ++ Islamic Saff Society [Abdullah Khalil BU GHAMAR] ++ Islamic Shura Society ++ Movement of National Justice Society [Muhi al-Din KHAN] ++ National Action Charter Society [Muhammad AL-BUAYNAYN] ++ National Democratic Action Society [Radhi AL-MOUSAWI] ++ National Democratic Assembly [Hasan AL-ALI] ++ National Dialogue Society ++ National Fraternity Society [Musa AL-ANSARI] ++ National Islamic Minbar [Ali AHMAD] ++ National Progressive Tribune [Abd al-Nabi SALMAN] ++ National Unity Gathering ++ Unitary National Democratic Assemblage [Fadhil ABBAS] ++ "
-      }
+      "text": "Alliance for a Better Future of BiH or SBB BiH [Fahrudin RADONCIC] ++ Alliance of Independent Social Democrats or SNSD [Milorad DODIK] ++ Bosnian-Herzegovinian Patriotic Party-Sefer Halilovic or BPS-Sefer Halilovic [Sefer HALILOVIC] ++ Croat Peasants' Party-New Croat Initiative or HSS-NHI [Ante COLAK] ++ Croatian Christian Democratic Union of Bosnia and Herzegovina or HKDU [Ivan MUSA] ++ Croatian Democratic Union of Bosnia and Herzegovina or HDZ-BiH [Dragan COVIC] ++ Croatian Democratic Union 1990 or HDZ-1990 [Martin RAGUZ] ++ Croatian Party of Rights dr. Ante Starcevic or HSP dr. Ante Starcevic [Zvonko JURISIC] ++ Croatian Party of Rights of Herceg-Bosne or HSP Herceg-Bosne [Vesna PINJUH] ++ Democratic Front of DF [Zeljko KOMSIC] ++ Democratic Peoples' Alliance or DNS [Marko PAVIC] ++ Party of Democratic Action or SDA [Bakir IZETBEGOVIC] ++ Party of Democratic Activity or A-SDA [Nermin OGRESEVIC] ++ Party of Democratic Progress or PDP [Mladen IVANIC] ++ People's Democratic Movement or NDP [Dragan CAVIC] (unification of the Democratic Party or DP and the People's Democratic Party or NDS) ++ Serb Democratic Party or SDS [Mladen BOSIC] ++ Social Democratic Party of BiH or SDP BiH [Nermin NIKSIC]"
     },
     "Political pressure groups and leaders": {
-      "text": "none"
+      "other": {
+        "text": "war veterans; displaced persons associations; family associations of missing persons; private media"
+      }
     },
     "International organization participation": {
-      "text": "ABEDA, AFESD, AMF, CAEU, CICA, FAO, G-77, GCC, IAEA, IBRD, ICAO, ICC (national committees), ICRM, IDA, IDB, IFC, IFRCS, IHO, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM (observer), IPU, ISO, ITSO, ITU, ITUC (NGOs), LAS, MIGA, NAM, OAPEC, OIC, OPCW, PCA, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WFTU (NGOs), WHO, WIPO, WMO, WTO"
+      "text": "BIS, CD, CE, CEI, EAPC, EBRD, FAO, G-77, IAEA, IBRD, ICAO, ICC (NGOs), ICCt, ICRM, IDA, IFAD, IFC, IFRCS, ILO, IMF, IMO, IMSO, Interpol, IOC, IOM, IPU, ISO, ITSO, ITU, ITUC (NGOs), MIGA, MINUSMA, MONUSCO, NAM (observer), OAS (observer), OIC (observer), OIF (observer), OPCW, OSCE, PFP, SELEC, UN, UNCTAD, UNESCO, UNIDO, UNWTO, UPU, WCO, WHO, WIPO, WMO, WTO (observer)"
     },
     "Diplomatic representation in the US": {
       "chief of mission": {
-        "text": "Ambassador ABDALLAH bin Muhammad bin Rashid Al Khalifa (since 3 December 2013)"
+        "text": "Ambassador (vacant); Charge d'Affaires Adnan HADROVIC (since 1 August 2015)"
       },
       "chancery": {
-        "text": "3502 International Drive NW, Washington, DC 20008"
+        "text": "2109 E Street NW, Washington, DC 20037"
       },
       "telephone": {
-        "text": "[1] (202) 342-1111"
+        "text": "[1] (202) 337-1500"
       },
       "FAX": {
-        "text": "[1] (202) 362-2192"
+        "text": "[1] (202) 337-1502"
       },
       "consulate(s) general": {
-        "text": "New York"
+        "text": "Chicago, New York"
       }
     },
     "Diplomatic representation from the US": {
       "chief of mission": {
-        "text": "Ambassador William V. ROEBUCK (since 12 December 2014)"
+        "text": "Ambassador Maureen CORMACK (since 16 January 2015)"
       },
       "embassy": {
-        "text": "Building "
+        "text": "1 Robert C. Frasure Street, 71000 Sarajevo"
       },
       "mailing address": {
-        "text": "PSC 451, Box 660, FPO AE 09834-5100; international mail: American Embassy, Box 26431, Manama"
+        "text": "use embassy street address"
       },
       "telephone": {
-        "text": "[973] 1724-2700"
+        "text": "[387] (33) 704-000"
       },
       "FAX": {
-        "text": "[973] 1727-0547"
+        "text": "[387] (33) 659-722"
+      },
+      "branch office(s)": {
+        "text": "Banja Luka, Mostar"
       }
     },
     "Flag description": {
-      "text": "red, the traditional color for flags of Persian Gulf states, with a white serrated band (five white points) on the hoist side; the five points represent the five pillars of Islam",
+      "text": "a wide medium blue vertical band on the fly side with a yellow isosceles triangle abutting the band and the top of the flag; the remainder of the flag is medium blue with seven full five-pointed white stars and two half stars top and bottom along the hypotenuse of the triangle; the triangle approximates the shape of the country and its three points stand for the constituent peoples - Bosniaks, Croats, and Serbs; the stars represent Europe and are meant to be continuous (thus the half stars at top and bottom); the colors (white, blue, and yellow) are often associated with neutrality and peace, and traditionally are linked with Bosnia",
       "note": {
-        "text": "until 2002 the flag had eight white points, but this was reduced to five to avoid confusion with the Qatari flag"
+        "text": "one of several flags where a prominent component of the design reflects the shape of the country; other such flags are those of Brazil, Eritrea, and Vanuatu"
       }
     },
     "National symbol(s)": {
-      "text": "a red field surmounted by a white serrated band with five white points; national colors: red, white"
+      "text": "golden lily; national colors: blue, yellow, white"
     },
     "National anthem": {
       "name": {
-        "text": "\"Bahrainona\" (Our Bahrain)"
+        "text": "\"Drzavna himna Bosne i Hercegovine\" (The National Anthem of Bosnia and Herzegovina)"
       },
       "lyrics/music": {
-        "text": "unknown"
+        "text": "none officially; Dusan SESTIC and Benjamin ISOVIC/Dusan SESTIC"
       },
       "note": {
-        "text": "adopted 1971; although Mohamed Sudqi AYYASH wrote the original lyrics, they were changed in 2002 following the transformation of Bahrain from an emirate to a kingdom"
+        "text": "music adopted 1999; lyrics accepted 2009 but not yet approved"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "Bahrain has made great efforts to diversify its economy; its highly developed communication and transport facilities make Bahrain home to numerous multinational firms with business in the Gulf. As part of its diversification plans, Bahrain implemented a Free Trade Agreement (FTA) with the US in August 2006, the first FTA between the US and a Gulf state. Bahrain's economy, however, continues to depend heavily on oil. In 2013, petroleum production and refining accounted for 73% of Bahrain's export receipts, 88% of government revenues, and 21% of GDP. Other major economic activities are production of aluminum - Bahrain's second biggest export after oil - finance, and construction. Bahrain continues to seek new natural gas supplies as feedstock to support its expanding petrochemical and aluminum industries. In 2011 Bahrain experienced economic setbacks as a result of domestic unrest, however, the economy recovered in 2012-14, partly as a result of improved tourism. Lower oil prices in 2015 will likely exacerbate Bahrain's budget deficit."
+      "text": "Bosnia has a transitional economy with limited market reforms. The economy relies heavily on the export of metals, energy, textiles and furniture as well as on remittances and foreign aid. A highly decentralized government hampers economic policy coordination and reform, while excessive bureaucracy and a segmented market discourage foreign investment. Interethnic warfare in Bosnia and Herzegovina caused production to plummet by 80% from 1992 to 1995 and unemployment to soar, but the economy made progress until 2009, when the global economic crisis caused a downturn. Foreign banks, primarily from Austria and Italy, now control most of the banking sector. The konvertibilna marka (convertible mark or BAM) - the national currency introduced in 1998 - is pegged to the euro, and confidence in the currency and the banking sector has remained stable. Bosnia's private sector is growing slowly, but foreign investment has dropped sharply since 2007. Government spending - including transfer payments - remains high, at roughly 40% of GDP, because of redundant government offices at the national, sub-national, and municipal level. High unemployment remains the most serious macroeconomic problem. Successful implementation of a value-added tax in 2006 provided a steady source of revenue for the government and helped rein in gray-market activity. National-level statistics have also improved over time but a large share of economic activity remains unofficial and unrecorded. Bosnia and Herzegovina became a full member of the Central European Free Trade Agreement in September 2007. Bosnia and Herzegovina's top economic priorities are: acceleration of integration into the EU; strengthening the fiscal system; public administration reform; World Trade Organization (WTO) membership; and securing economic growth by fostering a dynamic, competitive private sector. Flooding caused significant damage in the spring of 2014, and Bosnia will struggle to recover from it in 2015."
     },
     "GDP (purchasing power parity)": {
-      "text": "$62.17 billion (2014 est.) ++ $59.49 billion (2013 est.) ++ $56.47 billion (2012 est.)",
+      "text": "$38.29 billion (2014 est.) ++ $37.89 billion (2013 est.) ++ $36.98 billion (2012 est.)",
       "note": {
         "text": "data are in 2014 US dollars"
       }
     },
     "GDP (official exchange rate)": {
-      "text": "$33.86 billion (2014 est.)"
+      "text": "$18.17 billion (2014 est.)"
     },
     "GDP - real growth rate": {
-      "text": "4.5% (2014 est.) ++ 5.3% (2013 est.) ++ 3.6% (2012 est.)"
+      "text": "1.1% (2014 est.) ++ 2.5% (2013 est.) ++ -1.2% (2012 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$49,000 (2014 est.) ++ $46,900 (2013 est.) ++ $44,500 (2012 est.)",
+      "text": "$9,900 (2014 est.) ++ $9,800 (2013 est.) ++ $9,600 (2012 est.)",
       "note": {
         "text": "data are in 2014 US dollars"
       }
     },
     "Gross national saving": {
-      "text": "19.6% of GDP (2014 est.) ++ 24.7% of GDP (2013 est.) ++ 27.3% of GDP (2012 est.)"
+      "text": "10.1% of GDP (2014 est.) ++ 11.2% of GDP (2013 est.) ++ 9.3% of GDP (2012 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "41%"
+        "text": "81.2%"
       },
       "government consumption": {
-        "text": "15.7%"
+        "text": "21.6%"
       },
       "investment in fixed capital": {
-        "text": "15.3%"
+        "text": "18.3%"
       },
       "investment in inventories": {
-        "text": "1%"
+        "text": "1.3%"
       },
       "exports of goods and services": {
-        "text": "71.2%"
+        "text": "32.8%"
       },
       "imports of goods and services": {
-        "text": "-44.1% ++  (2014 est.)"
+        "text": "-55.1% ++  (2014 est.)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "0.3%"
+        "text": "8%"
       },
       "industry": {
-        "text": "47.1%"
+        "text": "26.3%"
       },
       "services": {
-        "text": "52.6% (2014 est.)"
+        "text": "65.7% (2014 est.)"
       }
     },
     "Agriculture - products": {
-      "text": "fruit, vegetables; poultry, dairy products; shrimp, fish"
+      "text": "wheat, corn, fruits, vegetables; livestock"
     },
     "Industries": {
-      "text": "petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, Islamic and offshore banking, insurance, ship repairing, tourism"
+      "text": "steel, coal, iron ore, lead, zinc, manganese, bauxite, aluminum, motor vehicle assembly, textiles, tobacco products, wooden furniture, ammunition, domestic appliances, oil refining"
     },
     "Industrial production growth rate": {
-      "text": "4.3% (2014 est.)"
+      "text": "0.2% (2014 est.)"
     },
     "Labor force": {
-      "text": "738,000",
-      "note": {
-        "text": "excludes unemployed; 44% of the population in the 15-64 age group is non-national (2014 est.)"
-      }
+      "text": "1.47 million (2014 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "1%"
+        "text": "19%"
       },
       "industry": {
-        "text": "32%"
+        "text": "30%"
       },
       "services": {
-        "text": "67% (2004 est.)"
+        "text": "51% (2013)"
       }
     },
     "Unemployment rate": {
-      "text": "4.1% (2014 est.) ++ 4.3% (2013 est.)"
+      "text": "43.9% (2014 est.) ++ 44.8% (2013 est.)",
+      "note": {
+        "text": "official rate; actual rate is lower as many technically unemployed persons work in the gray economy"
+      }
     },
     "Population below poverty line": {
-      "text": "NA%"
+      "text": "17.2% (2011 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
-        "text": "NA%"
+        "text": "2.7%"
       },
       "highest 10%": {
-        "text": "NA%"
+        "text": "27.3% (2007)"
       }
+    },
+    "Distribution of family income - Gini index": {
+      "text": "36.2 (2007)"
     },
     "Budget": {
       "revenues": {
-        "text": "$8.217 billion"
+        "text": "$8.774 billion"
       },
       "expenditures": {
-        "text": "$9.427 billion (2014 est.)"
+        "text": "$9.349 billion (2014 est.)"
       }
     },
     "Taxes and other revenues": {
-      "text": "24.3% of GDP (2014 est.)"
+      "text": "48.3% of GDP (2014 est.)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "-3.6% of GDP (2014 est.)"
+      "text": "-3.2% of GDP (2014 est.)"
     },
     "Public debt": {
-      "text": "42.1% of GDP (2014 est.) ++ 41.3% of GDP (2013 est.)"
+      "text": "44.8% of GDP (2014 est.) ++ 41.6% of GDP (2013 est.)",
+      "note": {
+        "text": "data cover general government debt, and includes debt instruments issued (or owned) by government entities other than the treasury; the data include treasury debt held by foreign entities; the data include debt issued by subnational entities, as well as intra-governmental debt; intra-governmental debt consists of treasury borrowings from surpluses in the social funds, such as for retirement, medical care, and unemployment; debt instruments for the social funds are not sold at public auctions."
+      }
     },
     "Fiscal year": {
       "text": "calendar year"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2.7% (2014 est.) ++ 3.3% (2013 est.)"
+      "text": "-0.9% (2014 est.) ++ -0.1% (2013 est.)"
     },
     "Commercial bank prime lending rate": {
-      "text": "5.88% (31 December 2014 est.) ++ 5.93% (31 December 2013 est.)"
+      "text": "6.64% (31 December 2014 est.) ++ 6.99% (31 December 2013 est.)"
     },
     "Stock of narrow money": {
-      "text": "$7.996 billion (30 September 2014 est.) ++ $7.416 billion (31 December 2013 est.)"
+      "text": "$4.538 billion (31 December 2014 est.) ++ $4.721 billion (31 December 2013 est.)"
     },
     "Stock of broad money": {
-      "text": "$25.95 billion (31 December 2014 est.) ++ $24.36 billion (31 December 2013 est.)"
+      "text": "$11.75 billion (31 December 2014 est.) ++ $10.95 billion (31 December 2013 est.)"
     },
     "Stock of domestic credit": {
-      "text": "$25.44 billion (31 December 2014 est.) ++ $25.77 billion (31 December 2013 est.)"
+      "text": "$10.48 billion (31 December 2014 est.) ++ $11.57 billion (31 December 2013 est.)"
     },
     "Market value of publicly traded shares": {
-      "text": "$22.1 billion (31 December 2014 est.) ++ $18.57 billion (31 December 2013) ++ $15.65 billion (31 December 2012 est.)"
+      "text": "$NA"
     },
     "Current account balance": {
-      "text": "$1.123 billion (2014 est.) ++ $2.56 billion (2013 est.)"
+      "text": "-$1.404 billion (2014 est.) ++ -$1.026 billion (2013 est.)"
     },
     "Exports": {
-      "text": "$20.75 billion (2014 est.) ++ $20.93 billion (2013 est.)"
+      "text": "$4.49 billion (2014 est.) ++ $4.363 billion (2013 est.)"
     },
     "Exports - commodities": {
-      "text": "petroleum and petroleum products, aluminum, textiles"
+      "text": "metals, clothing, wood products"
     },
     "Exports - partners": {
-      "text": "Saudi Arabia 3.3%, US 2.4%, UAE 2.2% (2014)"
+      "text": "Slovenia 16.4%, Italy 16.1%, Germany 12.8%, Austria 12.3%, Croatia 12% (2014)"
     },
     "Imports": {
-      "text": "$13.32 billion (2014 est.) ++ $13.66 billion (2013 est.)"
+      "text": "$9.982 billion (2014 est.) ++ $9.337 billion (2013 est.)"
     },
     "Imports - commodities": {
-      "text": "crude oil, machinery, chemicals"
+      "text": "machinery and equipment, chemicals, fuels, foodstuffs"
     },
     "Imports - partners": {
-      "text": "Saudi Arabia 24%, Algeria 11.9%, China 8.2%, US 7%, Japan 5.7%, Australia 4.4% (2014)"
+      "text": "Croatia 20.2%, Germany 12.6%, Slovenia 12.2%, Italy 9.8%, Russia 6.8%, Austria 5.7%, Hungary 5% (2014)"
     },
     "Reserves of foreign exchange and gold": {
-      "text": "$6.049 billion (31 December 2014 est.) ++ $5.354 billion (31 December 2013 est.)"
+      "text": "$4.744 billion (31 December 2014 est.) ++ $4.868 billion (31 December 2013 est.)"
     },
     "Debt - external": {
-      "text": "$18.75 billion (31 December 2014 est.) ++ $17.66 billion (31 December 2013 est.)"
+      "text": "$11.2 billion (31 December 2014 est.) ++ $11.08 billion (31 December 2013 est.)"
     },
     "Stock of direct foreign investment - at home": {
-      "text": "$18.77 billion (31 December 2014 est.) ++ $17.82 billion (31 December 2013 est.)"
+      "text": "$7.92 billion (2014 est.) ++ $7.721 billion (2013 est.)"
     },
     "Stock of direct foreign investment - abroad": {
-      "text": "$10.72 billion (31 December 2014 est.) ++ $10.75 billion (31 December 2013 est.)"
+      "text": "$0 (2014)"
     },
     "Exchange rates": {
-      "text": "Bahraini dinars (BHD) per US dollar - ++ 0.376 (2014 est.) ++ 0.376 (2013 est.) ++ 0.376 (2012 est.) ++ 0.376 (2011 est.) ++ 0.376 (2010 est.)"
+      "text": "konvertibilna markas (BAM) per US dollar - ++ 1.4718 (2014 est.) ++ 1.4718 (2013 est.) ++ 1.52 (2012 est.) ++ 1.407 (2011 est.) ++ 1.4767 (2010 est.)"
     }
   },
   "Energy": {
     "Electricity - production": {
-      "text": "13.26 billion kWh (2012 est.)"
+      "text": "16.3 billion kWh (2013 est.)"
     },
     "Electricity - consumption": {
-      "text": "11.69 billion kWh (2012 est.)"
+      "text": "12.56 billion kWh (2013 est.)"
     },
     "Electricity - exports": {
-      "text": "190 million kWh (2012 est.)"
+      "text": "5.097 billion kWh (2013 est.)"
     },
     "Electricity - imports": {
-      "text": "35 million kWh (2012 est.)"
+      "text": "1.353 billion kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "3.94 million kW (2012 est.)"
+      "text": "4.3 million kW (2013 est.)"
     },
     "Electricity - from fossil fuels": {
-      "text": "99.9% of total installed capacity (2012 est.)"
+      "text": "54.8% of total installed capacity (2013 est.)"
     },
     "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "0% of total installed capacity (2013 est.)"
     },
     "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2012 est.)"
+      "text": "43.6% of total installed capacity (2013 est.)"
     },
     "Electricity - from other renewable sources": {
-      "text": "0.1% of total installed capacity (2012 est.)"
+      "text": "1.5% of total installed capacity (2013 est.)"
     },
     "Crude oil - production": {
-      "text": "49,500 bbl/day (2014 est.)"
+      "text": "0 bbl/day (2014 est.)"
     },
     "Crude oil - exports": {
-      "text": "152,600 bbl/day (2012 est.)"
+      "text": "0 bbl/day (2013 est.)"
     },
     "Crude oil - imports": {
-      "text": "243,300 bbl/day (2012 est.)"
+      "text": "20,040 bbl/day (2012 est.)"
     },
     "Crude oil - proved reserves": {
-      "text": "124.6 million bbl (1 January 2015 est.)"
+      "text": "0 bbl (1 January 2015 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "278,500 bbl/day (2012 est.)"
+      "text": "22,690 bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "50,000 bbl/day (2013 est.)"
+      "text": "34,000 bbl/day (2013 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "242,900 bbl/day (2012 est.)"
+      "text": "4,255 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "2,357 bbl/day (2012 est.)"
+      "text": "15,250 bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "15.7 billion cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - consumption": {
-      "text": "15.7 billion cu m (2013 est.)"
+      "text": "275 million cu m (2014 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "275 million cu m (2014 est.)"
     },
     "Natural gas - proved reserves": {
-      "text": "92.03 billion cu m (1 January 2014 est.)"
+      "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "32.2 million Mt (2012 est.)"
+      "text": "26 million Mt (2012 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "280,000"
+        "text": "850,000"
       },
       "subscriptions per 100 inhabitants": {
         "text": "22 (2014 est.)"
@@ -753,142 +757,170 @@
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "2.3 million"
+        "text": "3.5 million"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "177 (2014 est.)"
+        "text": "90 (2014 est.)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "modern system"
+        "text": "post-war reconstruction of the telecommunications network, aided by an internationally sponsored program, resulting in sharp increases in fixed-line telephone availability"
       },
       "domestic": {
-        "text": "modern fiber-optic integrated services; digital network with rapidly growing use of mobile-cellular telephones"
+        "text": "fixed-line teledensity roughly 25 per 100 persons; mobile-cellular subscribership has been increasing rapidly and stands at roughly 80 telephones per 100 persons"
       },
       "international": {
-        "text": "country code - 973; landing point for the Fiber-Optic Link Around the Globe (FLAG) submarine cable network that provides links to Asia, Middle East, Europe, and US; tropospheric scatter to Qatar and UAE; microwave radio relay to Saudi Arabia; satellite earth station - 1 (2007)"
+        "text": "country code - 387; no satellite earth stations (2011)"
       }
     },
     "Broadcast media": {
-      "text": "state-run Bahrain Radio and Television Corporation (BRTC) operates 5 terrestrial TV networks and several radio stations; satellite TV systems provide access to international broadcasts; 1 private FM station directs broadcasts to Indian listeners; radio and TV broadcasts from countries in the region are available (2007)"
+      "text": "3 public TV broadcasters: Radio and TV of Bosnia and Herzegovina, Federation TV (operating 2 networks), and Republika Srpska Radio-TV; a local commercial network of 5 TV stations; 3 private, near-national TV stations and dozens of small independent TV stations broadcasting; 3 large public radio broadcasters and many private radio stations (2010)"
     },
     "Radio broadcast stations": {
-      "text": "AM 2, FM 3, shortwave 0 (1998)"
+      "text": "AM 8, FM 16, shortwave 1 (1998)"
     },
     "Television broadcast stations": {
-      "text": "4 (1997)"
+      "text": "33 (1995)"
     },
     "Internet country code": {
-      "text": ".bh"
+      "text": ".ba"
     },
     "Internet users": {
       "total": {
-        "text": "1.3 million"
+        "text": "2.6 million"
       },
       "percent of population": {
-        "text": "96.5% (2014 est.)"
+        "text": "67.5% (2014 est.)"
       }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "4 (2013)"
+      "text": "24 (2013)"
     },
     "Airports - with paved runways": {
       "total": {
+        "text": "7"
+      },
+      "2,438 to 3,047 m": {
         "text": "4"
       },
-      "over 3,047 m": {
-        "text": "3"
+      "1,524 to 2,437 m": {
+        "text": "1"
+      },
+      "under 914 m": {
+        "text": "2 (2013)"
+      }
+    },
+    "Airports - with unpaved runways": {
+      "total": {
+        "text": "17"
+      },
+      "1,524 to 2,437 m": {
+        "text": "1"
       },
       "914 to 1,523 m": {
-        "text": "1 (2013)"
+        "text": "5"
+      },
+      "under 914 m": {
+        "text": " ++ 11 (2013)"
       }
     },
     "Heliports": {
-      "text": "1 (2013)"
+      "text": "6 (2013)"
     },
     "Pipelines": {
-      "text": "gas 20 km; oil 54 km (2013)"
+      "text": "gas 147 km; oil 9 km (2013)"
+    },
+    "Railways": {
+      "total": {
+        "text": "965 km"
+      },
+      "standard gauge": {
+        "text": "965 km 1.435-m gauge (565 km electrified) (2014)"
+      }
     },
     "Roadways": {
       "total": {
-        "text": "4,122 km"
+        "text": "22,926 km"
       },
       "paved": {
-        "text": "3,392 km"
+        "text": "19,426 km (4,652 km of interurban roads)"
       },
       "unpaved": {
-        "text": "730 km (2010)"
+        "text": "3,500 km (2010)"
       }
     },
-    "Merchant marine": {
-      "total": {
-        "text": "8"
-      },
-      "by type": {
-        "text": "bulk carrier 2, container 4, petroleum tanker 2"
-      },
-      "foreign-owned": {
-        "text": "5 (Kuwait 5)"
-      },
-      "registered in other countries": {
-        "text": "5 (Honduras 5) (2010)"
-      }
+    "Waterways": {
+      "text": "(Sava River on northern border; open to shipping but use limited) (2011)"
     },
     "Ports and terminals": {
-      "major seaport(s)": {
-        "text": "Mina' Salman, Sitrah"
+      "river port(s)": {
+        "text": "Bosanska Gradiska, Bosanski Brod, Bosanski Samac, Brcko, Orasje (Sava River)"
       }
     }
   },
   "Military": {
     "Military branches": {
-      "text": "Bahrain Defense Force (BDF): Royal Bahraini Army (RBA), Royal Bahraini Navy (RBN), Royal Bahraini Air Force (RBAF), Royal Bahraini Air Defense Force (RBADF) (2013)"
+      "text": "Armed Forces of Bosnia and Herzegovina (Oruzanih Snaga Bosne i Hercegovine, OSBiH): Army of Bosnia and Herzegovina, Air Force and Air Defense (Brigada Zracnih Snaga i Protuzracne Odbrane, br ZSiPZO), Tactical Support Brigade (Brigada Takticke Podrske, br TP) (2015)"
     },
     "Military service age and obligation": {
-      "text": "18 years of age for voluntary military service; 15 years of age for NCOs, technicians, and cadets; no conscription (2012)"
+      "text": "18 years of age for voluntary military service; mandatory retirement at age 35 or after 15 years of service for E-1 through E-4, mandatory retirement at age 50 and 30 years of service for E-5 through E-9, mandatory retirement at age 55 and 30 years of service for all officers (2014)"
     },
     "Manpower available for military service": {
       "males age 16-49": {
-        "text": "508,863"
+        "text": "1,180,829"
       },
       "females age 16-49": {
-        "text": "290,801 (2010 est.)"
+        "text": "1,143,919 (2010 est.)"
       }
     },
     "Manpower fit for military service": {
       "males age 16-49": {
-        "text": "423,757"
+        "text": "968,242"
       },
       "females age 16-49": {
-        "text": "245,302 (2010 est.)"
+        "text": "937,327 (2010 est.)"
       }
     },
     "Manpower reaching militarily significant age annually": {
       "male": {
-        "text": "8,988"
+        "text": "26,601"
       },
       "female": {
-        "text": "8,117 (2010 est.)"
+        "text": "24,879 (2010 est.)"
       }
     },
     "Military expenditures": {
-      "text": "4.2% of GDP (2014) ++ 4.1% of GDP (2013) ++ 3.9% of GDP (2010)"
+      "text": "0.98% of GDP (2014) ++ 1.04% of GDP (2013) ++ 1.35% of GDP (2012) ++ 1.15% of GDP (2011) ++ 1.35% of GDP (2010)"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "none"
+      "text": "Serbia delimited about half of the boundary with Bosnia and Herzegovina, but sections along the Drina River remain in dispute"
+    },
+    "Refugees and internally displaced persons": {
+      "refugees (country of origin)": {
+        "text": "6,703 (Croatia) (2014)"
+      },
+      "IDPs": {
+        "text": "100,400 (Bosnian Croats, Serbs, and Bosniaks displaced by inter-ethnic violence, human rights violations, and armed conflict during the 1992-1995 war) (2014)"
+      },
+      "stateless persons": {
+        "text": "101 (2014)"
+      }
     },
     "Trafficking in persons": {
       "current situation": {
-        "text": "Bahrain is a destination country for men and women subjected to forced labor and sex trafficking; unskilled and domestic workers from India, Pakistan, Nepal, Sri Lanka, Bangladesh, Indonesia, Thailand, the Philippines, Ethiopia, Ghana, Kenya, Eritrea, Uzbekistan, and other countries migrate willingly to Bahrain, but some face conditions of forced labor through the withholding of passports, restrictions on movement, nonpayment, threats, and abuse; many Bahraini labor recruitment agencies and some employers charge foreign workers exorbitant fees that make them vulnerable to forced labor and debt bondage; domestic workers are particularly at risk of experiencing forced labor and sexual exploitation because they are not protected under labor laws; women from Thailand, the Philippines, China, Vietnam, Morocco, Jordan, Syria, Lebanon, Russia, Ukraine, and other Eastern European countries are forced into prostitution in Bahrain"
+        "text": "Bosnia and Herzegovina is a source, destination, and transit country for men, women, and children (including the developmentally disabled) subjected to sex trafficking and forced labor; Bosnian women and girls are sexually exploited domestically; Roma children are forced to beg and to marry by local organized crime groups; Bosnians are also trafficked to other European countries"
       },
       "tier rating": {
-        "text": "Tier 2 Watch List – Bahrain does not fully comply with the minimum standards for the elimination of trafficking; however, it is making significant efforts to do so; the government has a written plan that, if implemented, would constitute a significant effort toward meeting the minimum standards for eliminating human trafficking; an increased number of trafficking offenders were investigated, prosecuted, and convicted in 2013; the government did not prosecute or convict any forced labor perpetrators and often treated these cases as labor violations rather than serious crimes; some progress was made in identifying victims and referring them to protection services, but trafficking victims continued to be punished for crimes committed as a direct result of being trafficked (2014)"
+        "text": "Tier 2 Watch List – Bosnia and Herzegovina does not comply fully with the minimum standards for the elimination of human trafficking; however, it is making significant efforts to do so; some progress was made in 2013 in prosecuting and convicting trafficking offenders, but authorities significantly decreased their identification of victims; the national referral mechanism did not involve labor inspectors, hampering efforts to identify forced labor victims; the government has not amended all sub-national laws to criminalize all forms of trafficking consistent with national and international law (2014)"
       }
+    },
+    "Illicit drugs": {
+      "text": "increasingly a transit point for heroin being trafficked to Western Europe; minor transit point for marijuana; remains highly vulnerable to money-laundering activity given a primarily cash-based and unregulated economy, weak law enforcement, and instances of corruption"
     }
   }
 }
