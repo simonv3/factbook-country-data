@@ -1,657 +1,185 @@
 {
   "Introduction": {
     "Background": {
-      "text": "Settled as early as 1000 B.C., Samoa was not reached by European explorers until the 18th century. International rivalries in the latter half of the 19th century were settled by an 1899 treaty in which Germany and the US divided the Samoan archipelago. The US formally occupied its portion - a smaller group of eastern islands with the excellent harbor of Pago Pago - the following year."
+      "text": "Speculation over the existence of a \"southern land\" was not confirmed until the early 1820s when British and American commercial operators and British and Russian national expeditions began exploring the Antarctic Peninsula region and other areas south of the Antarctic Circle. Not until 1840 was it established that Antarctica was indeed a continent and not merely a group of islands or an area of ocean. Several exploration \"firsts\" were achieved in the early 20th century, but generally the area saw little human activity. Following World War II, however, the continent experienced an upsurge in scientific research. A number of countries have set up a range of year-round and seasonal stations, camps, and refuges to support scientific research in Antarctica. Seven have made territorial claims, but not all countries recognize these claims. In order to form a legal framework for the activities of nations on the continent, an Antarctic Treaty was negotiated that neither denies nor gives recognition to existing territorial claims; signed in 1959, it entered into force in 1961."
     }
   },
   "Geography": {
     "Location": {
-      "text": "Oceania, group of islands in the South Pacific Ocean, about halfway between Hawaii and New Zealand"
+      "text": "continent mostly south of the Antarctic Circle"
     },
     "Geographic coordinates": {
-      "text": "14 20 S, 170 00 W"
+      "text": "90 00 S, 0 00 E"
     },
     "Map references": {
-      "text": "Oceania"
+      "text": "Antarctic Region"
     },
     "Area": {
       "total": {
-        "text": "199 sq km"
+        "text": "14 million sq km"
       },
       "land": {
-        "text": "199 sq km"
-      },
-      "water": {
-        "text": "0 sq km"
+        "text": "14 million sq km (280,000 sq km ice-free, 13.72 million sq km ice-covered) (est.)"
       },
       "note": {
-        "text": "includes Rose Island and Swains Island"
+        "text": "fifth-largest continent, following Asia, Africa, North America, and South America, but larger than Australia and the subcontinent of Europe"
       }
     },
     "Area - comparative": {
-      "text": "slightly larger than Washington, DC"
+      "text": "slightly less than 1.5 times the size of the US"
     },
     "Land boundaries": {
-      "text": "0 km"
-    },
-    "Coastline": {
-      "text": "116 km"
-    },
-    "Maritime claims": {
-      "territorial sea": {
-        "text": "12 nm"
-      },
-      "exclusive economic zone": {
-        "text": "200 nm"
+      "text": "0 km",
+      "note": {
+        "text": "see entry on Disputes - international"
       }
     },
+    "Coastline": {
+      "text": "17,968 km"
+    },
+    "Maritime claims": {
+      "text": "Australia, Chile, and Argentina claim Exclusive Economic Zone (EEZ) rights or similar over 200 nm extensions seaward from their continental claims, but like the claims themselves, these zones are not accepted by other countries; 21 of 28 Antarctic consultative nations have made no claims to Antarctic territory (although Russia and the US have reserved the right to do so) and do not recognize the claims of the other nations; also see the Disputes - international entry"
+    },
     "Climate": {
-      "text": "tropical marine, moderated by southeast trade winds; annual rainfall averages about 3 m; rainy season (November to April), dry season (May to October); little seasonal temperature variation"
+      "text": "severe low temperatures vary with latitude, elevation, and distance from the ocean; East Antarctica is colder than West Antarctica because of its higher elevation; Antarctic Peninsula has the most moderate climate; higher temperatures occur in January along the coast and average slightly below freezing"
     },
     "Terrain": {
-      "text": "five volcanic islands with rugged peaks and limited coastal plains, two coral atolls (Rose Island, Swains Island)"
+      "text": "about 98% thick continental ice sheet and 2% barren rock, with average elevations between 2,000 and 4,000 m; mountain ranges up to nearly 5,000 m; ice-free coastal areas include parts of southern Victoria Land, Wilkes Land, the Antarctic Peninsula area, and parts of Ross Island on McMurdo Sound; glaciers form ice shelves along about half of the coastline, and floating ice shelves constitute 11% of the area of the continent"
     },
     "Elevation extremes": {
       "lowest point": {
-        "text": "Pacific Ocean 0 m"
+        "text": "Bentley Subglacial Trench -2,540 m"
       },
       "highest point": {
-        "text": "Lata Mountain 964 m"
+        "text": "Vinson Massif 4,897 m"
+      },
+      "note": {
+        "text": "the lowest known land point in Antarctica is hidden in the Bentley Subglacial Trench; at its surface is the deepest ice yet discovered and the world's lowest elevation not under seawater"
       }
     },
     "Natural resources": {
-      "text": "pumice, pumicite"
+      "text": "iron ore, chromium, copper, gold, nickel, platinum and other minerals, and coal and hydrocarbons have been found in small noncommercial quantities; none presently exploited; krill, finfish, and crab have been taken by commercial fisheries"
     },
     "Land use": {
       "agricultural land": {
-        "text": "21.7% ++ arable land 13.3%; permanent crops 8.4%; permanent pasture 0%"
+        "text": "0%"
       },
       "forest": {
-        "text": "78.3%"
+        "text": "0%"
       },
       "other": {
-        "text": "0% (2011 est.)"
+        "text": "100% (ice 98%, barren rock 2%) (2011 est.)"
       }
-    },
-    "Irrigated land": {
-      "text": "NA"
     },
     "Natural hazards": {
-      "text": "typhoons common from December to March",
-      "volcanism": {
-        "text": "limited volcanic activity on the Ofu and Olosega Islands; neither has erupted since the 19th century"
-      }
+      "text": "katabatic (gravity-driven) winds blow coastward from the high interior; frequent blizzards form near the foot of the plateau; cyclonic storms form over the ocean and move clockwise along the coast; volcanism on Deception Island and isolated areas of West Antarctica; other seismic activity rare and weak; large icebergs may calve from ice shelf"
     },
     "Environment - current issues": {
-      "text": "limited natural freshwater resources; the water division of the government has spent substantial funds in the past few years to improve water catchments and pipelines"
+      "text": "in 1998, NASA satellite data showed that the Antarctic ozone hole was the largest on record, covering 27 million square kilometers; researchers in 1997 found that increased ultraviolet light passing through the hole damages the DNA of icefish, an Antarctic fish lacking hemoglobin; ozone depletion earlier was shown to harm one-celled Antarctic marine plants; in 2002, significant areas of ice shelves disintegrated in response to regional warming"
     },
     "Geography - note": {
-      "text": "Pago Pago has one of the best natural deepwater harbors in the South Pacific Ocean, sheltered by shape from rough seas and protected by peripheral mountains from high winds; strategic location in the South Pacific Ocean"
+      "text": "the coldest, windiest, highest (on average), and driest continent; during summer, more solar radiation reaches the surface at the South Pole than is received at the Equator in an equivalent period; mostly uninhabitable, 98% of land area is ice covered"
     }
   },
   "People and Society": {
-    "Nationality": {
-      "noun": {
-        "text": "American Samoan(s) (US nationals)"
-      },
-      "adjective": {
-        "text": "American Samoan"
-      }
-    },
-    "Ethnic groups": {
-      "text": "Native Hawaiian and other Pacific Islander 92.6% (includes Samoan 88.9%, Tongan 2.9%, other .8%), Asian 3.6% (includes Filipino 2.2%, other 1.4%), mixed 2.7%, other 1.2% (2010 est.)"
-    },
-    "Languages": {
-      "text": "Samoan 88.6% (closely related to Hawaiian and other Polynesian languages), English 3.9%, Tongan 2.7%, other Pacific islander 3%, other 1.8%",
-      "note": {
-        "text": "most people are bilingual (2010 est.)"
-      }
-    },
-    "Religions": {
-      "text": "Christian 98.3%, other 1%, unaffiliated 0.7% (2010 est.)"
-    },
     "Population": {
-      "text": "54,343 (July 2015 est.)"
-    },
-    "Age structure": {
-      "0-14 years": {
-        "text": "24.45% (male 6,506/female 6,780)"
-      },
-      "15-24 years": {
-        "text": "19.61% (male 5,264/female 5,395)"
-      },
-      "25-54 years": {
-        "text": "42.1% (male 11,775/female 11,105)"
-      },
-      "55-64 years": {
-        "text": "8.69% (male 2,326/female 2,397)"
-      },
-      "65 years and over": {
-        "text": "5.14% (male 1,287/female 1,508) (2015 est.)"
-      },
-      "population pyramid": {
-        "text": null
+      "text": "no indigenous inhabitants, but there are both permanent and summer-only staffed research stations",
+      "note": {
+        "text": "29 nations, all signatory to the Antarctic Treaty, operate through their National Antarctic Program a number of seasonal-only (summer) and year-round research stations on the continent and its nearby islands south of 60 degrees south latitude (the region covered by the Antarctic Treaty); the population engaging in and supporting science or managing and protecting the Antarctic region varies from approximately 4,400 in summer to 1,100 in winter; in addition, approximately 1,000 personnel, including ship's crew and scientists doing onboard research, are present in the waters of the treaty region ++ peak summer (December-February) population - 4,490 total; Argentina 667, Australia 200, Australia and Romania jointly 13, Belgium 20, Brazil 40, Bulgaria 18, Chile 359, China 90, Czech Republic 20, Ecuador 26, Finland 20, France 125, France and Italy jointly 60, Germany 90, India 65, Italy 102, Japan 125, South Korea 70, NZ 85, Norway 44, Peru 28, Poland 40, Russia 429, South Africa 80, Spain 50, Sweden 20, Ukraine 24, UK 217, US 1,293, Uruguay 70 (2008-2009) ++ winter (June-August) station population - 1,106 total; Argentina 176, Australia 62, Brazil 12, Chile 114, China 29, France 26, France and Italy jointly 13, Germany 9, India 25, Japan 40, South Korea 18, NZ 10, Norway 7, Poland 12, Russia 148, South Africa 10, Ukraine 12, UK 37, US 337, Uruguay 9 (2009); research stations operated within the Antarctic Treaty area (south of 60 degrees south latitude) by National Antarctic Programs ++ year-round stations - 40 total; Argentina 6, Australia 3, Brazil 1, Chile 6, China 2, France 1, France and Italy jointly 1, Germany 1, India 1, Japan 1, South Korea 1, NZ 1, Norway 1, Poland 1, Russia 5, South Africa 1, Ukraine 1, UK 2, US 3, Uruguay 1 (2009) ++ a range of seasonal-only (summer) stations, camps, and refuges - Argentina, Australia, Belgium, Bulgaria, Brazil, Chile, China, Czech Republic, Ecuador, Finland, France, Germany, India, Italy, Japan, South Korea, New Zealand, Norway, Peru, Poland, Romania (with Australia), Russia, South Africa, Spain, Sweden, Ukraine, UK, US, and Uruguay (2008-2009) ++ in addition, during the austral summer some nations have numerous occupied locations such as tent camps, summer-long temporary facilities, and mobile traverses in support of research (May 2009 est.)"
       }
-    },
-    "Median age": {
-      "total": {
-        "text": "28.8 years"
-      },
-      "male": {
-        "text": "29.4 years"
-      },
-      "female": {
-        "text": "28.3 years (2015 est.)"
-      }
-    },
-    "Population growth rate": {
-      "text": "-0.3% (2015 est.)"
-    },
-    "Birth rate": {
-      "text": "22.89 births/1,000 population (2015 est.)"
-    },
-    "Death rate": {
-      "text": "4.75 deaths/1,000 population (2015 est.)"
-    },
-    "Net migration rate": {
-      "text": "-21.13 migrant(s)/1,000 population (2015 est.)"
-    },
-    "Urbanization": {
-      "urban population": {
-        "text": "87.2% of total population (2015)"
-      },
-      "rate of urbanization": {
-        "text": "-0.13% annual rate of change (2010-15 est.)"
-      }
-    },
-    "Major urban areas - population": {
-      "text": "PAGO PAGO (capital) 48,000 (2014)"
-    },
-    "Sex ratio": {
-      "at birth": {
-        "text": "1.06 male(s)/female"
-      },
-      "0-14 years": {
-        "text": "0.96 male(s)/female"
-      },
-      "15-24 years": {
-        "text": "0.98 male(s)/female"
-      },
-      "25-54 years": {
-        "text": "1.06 male(s)/female"
-      },
-      "55-64 years": {
-        "text": "0.97 male(s)/female"
-      },
-      "65 years and over": {
-        "text": "0.85 male(s)/female"
-      },
-      "total population": {
-        "text": "1 male(s)/female (2015 est.)"
-      }
-    },
-    "Infant mortality rate": {
-      "total": {
-        "text": "8.69 deaths/1,000 live births"
-      },
-      "male": {
-        "text": "11.16 deaths/1,000 live births"
-      },
-      "female": {
-        "text": "6.09 deaths/1,000 live births (2015 est.)"
-      }
-    },
-    "Life expectancy at birth": {
-      "total population": {
-        "text": "75.14 years"
-      },
-      "male": {
-        "text": "72.18 years"
-      },
-      "female": {
-        "text": "78.28 years (2015 est.)"
-      }
-    },
-    "Total fertility rate": {
-      "text": "2.92 children born/woman (2015 est.)"
-    },
-    "Drinking water source": {
-      "improved": {
-        "text": " ++ urban: 100% of population ++ rural: 100% of population ++ total: 100% of population"
-      },
-      "unimproved": {
-        "text": " ++ urban: 0% of population ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
-      }
-    },
-    "Sanitation facility access": {
-      "improved": {
-        "text": " ++ urban: 62.5% of population ++ rural: 62.5% of population ++ total: 62.5% of population"
-      },
-      "unimproved": {
-        "text": " ++ urban: 37.5% of population ++ rural: 37.5% of population ++ total: 37.5% of population (2015 est.)"
-      }
-    },
-    "HIV/AIDS - adult prevalence rate": {
-      "text": "NA"
-    },
-    "HIV/AIDS - people living with HIV/AIDS": {
-      "text": "NA"
-    },
-    "HIV/AIDS - deaths": {
-      "text": "NA"
-    },
-    "Education expenditures": {
-      "text": "NA"
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "Territory of American Samoa"
+        "text": "none"
       },
       "conventional short form": {
-        "text": "American Samoa"
-      },
-      "abbreviation": {
-        "text": "AS"
+        "text": "Antarctica"
       },
       "note": {
-        "text": "the name \"Samoa\" is composed of two parts, \"sa\" meaning sacred and \"moa\" meaning center, so the name can mean Holy Center; alternatively, it can mean \"place of the sacred moa bird\" of Polynesian mythology"
+        "text": "name derived from two Greek words meaning \"opposite to the Arctic\" or \"opposite to the north\""
       }
-    },
-    "Dependency status": {
-      "text": "unincorporated and unorganized territory of the US; administered by the Office of Insular Affairs, US Department of the Interior"
     },
     "Government type": {
-      "text": "NA"
-    },
-    "Capital": {
-      "name": {
-        "text": "Pago Pago"
-      },
-      "geographic coordinates": {
-        "text": "14 16 S, 170 42 W"
-      },
-      "time difference": {
-        "text": "UTC-11 (6 hours behind Washington, DC, during Standard Time)"
-      }
-    },
-    "Administrative divisions": {
-      "text": "none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 districts and 2 islands* at the second order; Eastern, Manu'a, Rose Island*, Swains Island*, Western"
-    },
-    "Independence": {
-      "text": "none (territory of the US)"
-    },
-    "National holiday": {
-      "text": "Flag Day, 17 April (1900)"
-    },
-    "Constitution": {
-      "text": "adopted 17 October 1960; revised 1 July 1967; amended 1971, 1977, 1979 (2015)"
+      "text": "Antarctic Treaty Summary - the Antarctic region is governed by a system known as the Antarctic Treaty System; the system includes: 1. the Antarctic Treaty, signed on 1 December 1959 and entered into force on 23 June 1961, which establishes the legal framework for the management of Antarctica, 2. Recommendations and Measures adopted at meetings of Antarctic Treaty countries, 3. The Convention for the Conservation of Antarctic Seals (1972), 4. The Convention for the Conservation of Antarctic Marine Living Resources (1980), and 5. The Protocol on Environmental Protection to the Antarctic Treaty (1991); the 33rd Antarctic Treaty Consultative Meeting was held in Punta del Este, Uruguay in May 2010; at these periodic meetings, decisions are made by consensus (not by vote) of all consultative member nations; by April 2010, there were 48 treaty member nations: 28 consultative and 20 non-consultative; consultative (decision-making) members include the seven nations that claim portions of Antarctica as national territory (some claims overlap) and 21 non-claimant nations; the US and Russia have reserved the right to make claims; the US does not recognize the claims of others; Antarctica is administered through meetings of the consultative member nations; decisions from these meetings are carried out by these member nations (with respect to their own nationals and operations) in accordance with their own national laws; the years in parentheses indicate when a consultative member-nation acceded to the Treaty and when it was accepted as a consultative member, while no date indicates the country was an original 1959 treaty signatory; claimant nations are - Argentina, Australia, Chile, France, NZ, Norway, and the UK; nonclaimant consultative nations are - Belgium, Brazil (1975/1983), Bulgaria (1978/1998), China (1983/1985), Ecuador (1987/1990), Finland (1984/1989), Germany (1979/1981), India (1983/1983), Italy (1981/1987), Japan, South Korea (1986/1989), Netherlands (1967/1990), Peru (1981/1989), Poland (1961/1977), Russia, South Africa, Spain (1982/1988), Sweden (1984/1988), Ukraine (1992/2004), Uruguay (1980/1985), and the US; non-consultative members, with year of accession in parentheses, are - Austria (1987), Belarus (2006), Canada (1988), Colombia (1989), Cuba (1984), Czech Republic (1962/1993), Denmark (1965), Estonia (2001), Greece (1987), Guatemala (1991), Hungary (1984), North Korea (1987), Monaco (2008), Papua New Guinea (1981), Portugal (2010), Romania (1971), Slovakia (1962/1993), Switzerland (1990), Turkey (1996), and Venezuela (1999); note - Czechoslovakia acceded to the Treaty in 1962 and separated into the Czech Republic and Slovakia in 1993; ++ Article 1 - area to be used for peaceful purposes only; military activity, such as weapons testing, is prohibited, but military personnel and equipment may be used for scientific research or any other peaceful purpose; Article 2 - freedom of scientific investigation and cooperation shall continue; Article 3 - free exchange of information and personnel, cooperation with the UN and other international agencies; Article 4 - does not recognize, dispute, or establish territorial claims and no new claims shall be asserted while the treaty is in force; Article 5 - prohibits nuclear explosions or disposal of radioactive wastes; Article 6 - includes under the treaty all land and ice shelves south of 60 degrees 00 minutes south and reserves high seas rights; Article 7 - treaty-state observers have free access, including aerial observation, to any area and may inspect all stations, installations, and equipment; advance notice of all expeditions and of the introduction of military personnel must be given; Article 8 - allows for jurisdiction over observers and scientists by their own states; Article 9 - frequent consultative meetings take place among member nations; Article 10 - treaty states will discourage activities by any country in Antarctica that are contrary to the treaty; Article 11 - disputes to be settled peacefully by the parties concerned or, ultimately, by the ICJ; Articles 12, 13, 14 - deal with upholding, interpreting, and amending the treaty among involved nations; other agreements - some 200 recommendations adopted at treaty consultative meetings and ratified by governments; a mineral resources agreement was signed in 1988 but remains unratified; the Protocol on Environmental Protection to the Antarctic Treaty was signed 4 October 1991 and entered into force 14 January 1998; this agreement provides for the protection of the Antarctic environment through six specific annexes: 1) environmental impact assessment, 2) conservation of Antarctic fauna and flora, 3) waste disposal and waste management, 4) prevention of marine pollution, 5) area protection and management and 6) liability arising from environmental emergencies; it prohibits all activities relating to mineral resources except scientific research; a permanent Antarctic Treaty Secretariat was established in 2004 in Buenos Aires, Argentina"
     },
     "Legal system": {
-      "text": "mixed legal system of US common law and customary law"
-    },
-    "Suffrage": {
-      "text": "18 years of age; universal"
-    },
-    "Executive branch": {
-      "chief of state": {
-        "text": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)"
-      },
-      "head of government": {
-        "text": "Governor Lolo Matalasi MOLIGA (since 3 January 2013)"
-      },
-      "cabinet": {
-        "text": "Cabinet consists of 12 department directors appointed by the governor with the consent of the Legislative Assembly"
-      },
-      "elections/appointments": {
-        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state to serve a 4-year term (eligible for a second term); under the US Constitution, residents of unincorporated territories, such as American Samoa, do not vote in elections for US president and vice president; however, they may vote in Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority popular vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 6 November 2012 with a runoff on 20 November 2012 (next to be held in November 2016)"
-      },
-      "election results": {
-        "text": "Lolo Matalasi MOLIGA elected governor; percent of vote in second round - Lolo Matalasi MOLIGA (independent) 52.9%, Faoa Aitofele SUNIA (Democratic Party) 47.1%"
-      }
-    },
-    "Legislative branch": {
-      "description": {
-        "text": "bicameral Fono or Legislative Assembly consists of the Senate (18 seats; members indirectly selected by regional governing councils to serve 4-year terms) and the House of Representatives (21 seats; 20 members directly elected by simple majority vote and 1 decided by public meeting on Swains Island; members serve 2-year terms)"
-      },
-      "elections": {
-        "text": "House of Representatives - last held on 4 November 2014 (next to be held in November 2016); Senate - last held on 6 November 2012 (next to be held in November 2016)"
-      },
-      "election results": {
-        "text": "Senate - percent of vote by party - NA; seats by party - independents 18; House of Representatives - percent of vote by party - NA; seats by party - independents 20"
-      },
-      "note": {
-        "text": "American Samoa elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 4 November 2014 (next to be held on November 2016)"
-      }
-    },
-    "Judicial branch": {
-      "highest court(s)": {
-        "text": "High Court of American Samoa (consists of the chief justice, associate chief justice, and 6 Samoan associate judges and organized into trial, family, drug, and appellate divisions) ++ note - American Samoa has no US federal courts"
-      },
-      "judge selection and term of office": {
-        "text": "chief justice and associate chief justice appointed by the US Secretary of the Interior to serve for life; Samoan associate judges appointed by the governor to serve for life"
-      },
-      "subordinate courts": {
-        "text": "district and village courts"
-      }
-    },
-    "Political parties and leaders": {
-      "text": "Democratic Party [Oreta M. TOGAFAU] ++ Republican Party [Tautai A. F. FAALEVAO]"
-    },
-    "International organization participation": {
-      "text": "AOSIS (observer), Interpol (subbureau), IOC, PIF (observer), SPC"
-    },
-    "Diplomatic representation in the US": {
-      "text": "none (territory of the US)"
-    },
-    "Diplomatic representation from the US": {
-      "text": "none (territory of the US)"
-    },
-    "Flag description": {
-      "text": "blue, with a white triangle edged in red that is based on the fly side and extends to the hoist side; a brown and white American bald eagle flying toward the hoist side is carrying two traditional Samoan symbols of authority, a war club known as a \"fa'alaufa'i\" (upper; left talon), and a coconut fiber fly whisk known as a \"fue\" (lower; right talon); the combination of symbols broadly mimics that seen on the US Great Seal and reflects the relationship between the United States and American Samoa"
-    },
-    "National symbol(s)": {
-      "text": "a fue (coconut fiber fly whisk) crossed with a to'oto'o (staff); national colors: red, white, blue"
-    },
-    "National anthem": {
-      "name": {
-        "text": "\"Amerika Samoa\" (American Samoa)"
-      },
-      "lyrics/music": {
-        "text": "Mariota Tiumalu TUIASOSOPO/Napoleon Andrew TUITELELEAPAGA"
-      },
-      "note": {
-        "text": "local anthem adopted 1950; as a territory of the United States, \"The Star-Spangled Banner\" is official (see United States)"
-      }
+      "text": "Antarctica is administered through annual meetings - known as Antarctic Treaty Consultative Meetings - which include consultative member nations, non-consultative member nations, observer organizations, and expert organizations; decisions from these meetings are carried out by these member nations (with respect to their own nationals and operations) in accordance with their own national laws; more generally, access to the Antarctic Treaty area, that is to all areas between 60 and 90 degrees south latitude, is subject to a number of relevant legal instruments and authorization procedures adopted by the states party to the Antarctic Treaty; note - US law, including certain criminal offenses by or against US nationals, such as murder, may apply extraterritorially; some US laws directly apply to Antarctica; for example, the Antarctic Conservation Act, 16 U.S.C. section 2401 et seq., provides civil and criminal penalties for the following activities unless authorized by regulation of statute: the taking of native mammals or birds; the introduction of nonindigenous plants and animals; entry into specially protected areas; the discharge or disposal of pollutants; and the importation into the US of certain items from Antarctica; violation of the Antarctic Conservation Act carries penalties of up to $10,000 in fines and one year in prison; the National Science Foundation and Department of Justice share enforcement responsibilities; Public Law 95-541, the US Antarctic Conservation Act of 1978, as amended in 1996, requires expeditions from the US to Antarctica to notify, in advance, the Office of Oceans, Room 5805, Department of State, Washington, DC 20520, which reports such plans to other nations as required by the Antarctic Treaty; for more information, contact Permit Office, Office of Polar Programs, National Science Foundation, Arlington, Virginia 22230; telephone: (703) 292-8030, or visit its website at www.nsf.gov"
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "American Samoa has a traditional Polynesian economy in which more than 90% of the land is communally owned. Economic activity is strongly linked to the US with which American Samoa conducts most of its commerce. Tuna fishing and tuna processing plants are the backbone of the private sector with canned tuna the primary export. The two tuna canneries accounted for 13.1% of employment in 2013. In late September 2009, an earthquake and the resulting tsunami devastated American Samoa and nearby Samoa, disrupting transportation and power generation, and resulting in about 200 deaths. The US Federal Emergency Management Agency oversaw a relief program of nearly $25 million. Transfers from the US Government add substantially to American Samoa's economic well-being. Attempts by the government to develop a larger and broader economy are restrained by Samoa's remote location, its limited transportation, and its devastating hurricanes. Tourism is a promising developing sector. In 2015, a new fish processing company completed refurbishing the processing facilities left behind by one of the two canneries that closed in 2009 and opened a new cannery. With two operating canneries once again, fish processing and exports will rise in 2015 and beyond."
-    },
-    "GDP (purchasing power parity)": {
-      "text": "$711 million (2013 est.) ++ $718 million (2012 est.) ++ $647 million (2011 est.)"
-    },
-    "GDP (official exchange rate)": {
-      "text": "$748.6 million (2005)"
-    },
-    "GDP - real growth rate": {
-      "text": "-2.4% (2013 est.) ++ -2.7% (2012 est.) ++ 0.6% (2012 est.)"
-    },
-    "GDP - per capita (PPP)": {
-      "text": "$13,000 (2013 est.) ++ $13,100 (2012 est.) ++ $11,700 (2011 est.)"
-    },
-    "GDP - composition, by end use": {
-      "household consumption": {
-        "text": "54.6%"
-      },
-      "government consumption": {
-        "text": "52.8%"
-      },
-      "investment in fixed capital": {
-        "text": "2.7%"
-      },
-      "investment in inventories": {
-        "text": "2.3%"
-      },
-      "exports of goods and services": {
-        "text": "54.4%"
-      },
-      "imports of goods and services": {
-        "text": "-66.8% (2013)"
-      }
-    },
-    "GDP - composition, by sector of origin": {
-      "agriculture": {
-        "text": "27.4%"
-      },
-      "industry": {
-        "text": "12.4%"
-      },
-      "services": {
-        "text": "60.2% (2012)"
-      }
-    },
-    "Agriculture - products": {
-      "text": "bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock"
-    },
-    "Industries": {
-      "text": "tuna canneries (largely supplied by foreign fishing vessels), handicrafts"
-    },
-    "Industrial production growth rate": {
-      "text": "NA%"
-    },
-    "Labor force": {
-      "text": "16,090 (2013)"
-    },
-    "Labor force - by occupation": {
-      "agriculture": {
-        "text": "NA"
-      },
-      "industry": {
-        "text": "13.1%"
-      },
-      "services": {
-        "text": "86.9% (2013)"
-      }
-    },
-    "Unemployment rate": {
-      "text": "29.8% (2005)"
-    },
-    "Population below poverty line": {
-      "text": "NA%"
-    },
-    "Household income or consumption by percentage share": {
-      "lowest 10%": {
-        "text": "NA%"
-      },
-      "highest 10%": {
-        "text": "NA%"
-      }
-    },
-    "Budget": {
-      "revenues": {
-        "text": "$241.2 million"
-      },
-      "expenditures": {
-        "text": "$243.7 million (2013 est.)"
-      }
-    },
-    "Taxes and other revenues": {
-      "text": "32.2% of GDP (2013 est.)"
-    },
-    "Budget surplus (+) or deficit (-)": {
-      "text": "-0.3% of GDP (2013 est.)"
-    },
-    "Fiscal year": {
-      "text": "1 October - 30 September"
-    },
-    "Inflation rate (consumer prices)": {
-      "text": "2.1% (2013) ++ 3.5% (2012)"
-    },
-    "Exports": {
-      "text": "$459 million (2013 est.) ++ $489 million (2012)"
-    },
-    "Exports - commodities": {
-      "text": "canned tuna 93%"
-    },
-    "Exports - partners": {
-      "text": "US 100%"
-    },
-    "Imports": {
-      "text": "$564 million (2013 est.) ++ $508 million (2012)"
-    },
-    "Imports - commodities": {
-      "text": "raw materials for canneries, food, petroleum products, machinery and parts"
-    },
-    "Debt - external": {
-      "text": "$NA"
-    },
-    "Exchange rates": {
-      "text": "the US dollar is used"
-    }
-  },
-  "Energy": {
-    "Electricity - production": {
-      "text": "156.4 million kWh (2013 est.)"
-    },
-    "Electricity - consumption": {
-      "text": "146 million kWh (2012 est.)"
-    },
-    "Electricity - exports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - imports": {
-      "text": "0 kWh (2013 est.)"
-    },
-    "Electricity - installed generating capacity": {
-      "text": "45,000 kW (2012 est.)"
-    },
-    "Electricity - from fossil fuels": {
-      "text": "100% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from nuclear fuels": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from hydroelectric plants": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Electricity - from other renewable sources": {
-      "text": "0% of total installed capacity (2012 est.)"
-    },
-    "Crude oil - production": {
-      "text": "0 bbl/day (2014 est.)"
-    },
-    "Crude oil - exports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Crude oil - proved reserves": {
-      "text": "0 bbl (1 January 2015 est.)"
-    },
-    "Refined petroleum products - production": {
-      "text": "0 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - consumption": {
-      "text": "2,375 bbl/day (2013 est.)"
-    },
-    "Refined petroleum products - exports": {
-      "text": "0.09 bbl/day (2012 est.)"
-    },
-    "Refined petroleum products - imports": {
-      "text": "2,346 bbl/day (2012 est.)"
-    },
-    "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
-    },
-    "Natural gas - proved reserves": {
-      "text": "0 cu m (1 January 2014 est.)"
-    },
-    "Carbon dioxide emissions from consumption of energy": {
-      "text": "607,000 Mt (2012 est.)"
+      "text": "Scientific undertakings rather than commercial pursuits are the predominant human activity in Antarctica. Fishing off the coast and tourism, both based abroad, account for Antarctica's limited economic activity. Antarctic fisheries, targeting three main species - Patagonian and Antarctic toothfish (Dissostichus eleginoides and D. mawsoni), mackerel icefish (Champsocephalus gunnari), and krill (Euphausia superba) - reported landing 141,147 metric tons in 2008-09 (1 July - 30 June). (Estimated fishing is from the area covered by the Convention on the Conservation of Antarctic Marine Living Resources (CCAMLR), which extends slightly beyond the Antarctic Treaty area.) Unregulated fishing, particularly of Patagonian toothfish (also known as Chilean sea bass), is a serious problem. The CCAMLR determines the recommended catch limits for marine species. A total of 37,858 tourists visited the Antarctic Treaty area in the 2008-09 Antarctic summer, down from the 46,265 visitors in 2007-08 (estimates provided to the Antarctic Treaty by the International Association of Antarctica Tour Operators (IAATO); this does not include passengers on overflights). Nearly all of them were passengers on commercial (nongovernmental) ships and several yachts that make trips during the summer."
     }
   },
   "Communications": {
-    "Telephones - fixed lines": {
-      "total subscriptions": {
-        "text": "9,900"
-      },
-      "subscriptions per 100 inhabitants": {
-        "text": "18 (2014 est.)"
-      }
-    },
     "Telephone system": {
       "general assessment": {
-        "text": "good telex, telegraph, facsimile, and cellular telephone services"
+        "text": "local systems at some research stations"
       },
       "domestic": {
-        "text": "domestic satellite system with 1 Comsat earth station"
+        "text": "commercial cellular networks operating in a small number of locations"
       },
       "international": {
-        "text": "country code - 1-684; satellite earth station - 1 (Intelsat-Pacific Ocean)"
+        "text": "country code - none allocated; via satellite (including mobile Inmarsat and Iridium systems) to and from all research stations, ships, aircraft, and most field parties (2007)"
       }
     },
-    "Broadcast media": {
-      "text": "3 TV stations; multi-channel pay TV services are available; about a dozen radio stations, some of which are repeater stations (2009)"
-    },
     "Radio broadcast stations": {
-      "text": "AM 2, FM 3, shortwave 0 (2005)"
+      "text": "FM 2, shortwave 1 (information for US bases only); note - many research stations have a local FM radio station (2007)"
     },
     "Television broadcast stations": {
-      "text": "1 (2006)"
+      "text": "1 (cable system with 6 channels; American Forces Antarctic Network-McMurdo - information for US bases only) (2002)"
     },
     "Internet country code": {
-      "text": ".as"
-    },
-    "Internet users": {
-      "text": "NA"
+      "text": ".aq"
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "3 (2013)"
+      "text": "23 (2013)"
     },
-    "Airports - with paved runways": {
+    "Airports - with unpaved runways": {
       "total": {
-        "text": "3"
+        "text": "23"
       },
       "over 3,047 m": {
+        "text": "3"
+      },
+      "2,438 to 3,047 m": {
+        "text": "5"
+      },
+      "1,524 to 2,437 m": {
         "text": "1"
       },
       "914 to 1,523 m": {
-        "text": "1"
+        "text": "8"
       },
       "under 914 m": {
-        "text": "1 (2013)"
+        "text": " ++ 6 (2013)"
       }
     },
-    "Roadways": {
-      "total": {
-        "text": "241 km (2008)"
+    "Heliports": {
+      "text": "53",
+      "note": {
+        "text": "all year-round and seasonal stations operated by National Antarctic Programs stations have some kind of helicopter landing facilities, prepared (helipads) or unprepared (2012)"
       }
     },
     "Ports and terminals": {
-      "major seaport(s)": {
-        "text": "Pago Pago"
-      }
+      "text": "McMurdo Station; most coastal stations have sparse and intermittent offshore anchorages; a few stations have basic wharf facilities"
+    },
+    "Transportation - note": {
+      "text": "US coastal stations include McMurdo (77 51 S, 166 40 E) and Palmer (64 43 S, 64 03 W); government use only except by permit (see Permit Office under \"Legal System\"); all ships at port are subject to inspection in accordance with Article 7, Antarctic Treaty; relevant legal instruments and authorization procedures adopted by the states parties to the Antarctic Treaty regulating access to the Antarctic Treaty area to all areas between 60 and 90 degrees of latitude south have to be complied with (see \"Legal System\"); The Hydrographic Commission on Antarctica (HCA), a commission of the International Hydrographic Organization (IHO), is responsible for hydrographic surveying and nautical charting matters in Antarctic Treaty area; it coordinates and facilitates provision of accurate and appropriate charts and other aids to navigation in support of safety of navigation in region; membership of HCA is open to any IHO Member State whose government has acceded to the Antarctic Treaty and which contributes resources or data to IHO Chart coverage of the area"
     }
   },
   "Military": {
-    "Manpower fit for military service": {
-      "males age 16-49": {
-        "text": "14,562"
-      },
-      "females age 16-49": {
-        "text": "14,129 (2010 est.)"
-      }
-    },
-    "Manpower reaching militarily significant age annually": {
-      "male": {
-        "text": "775"
-      },
-      "female": {
-        "text": "762 (2010 est.)"
-      }
-    },
     "Military - note": {
-      "text": "defense is the responsibility of the US"
+      "text": "the Antarctic Treaty prohibits any measures of a military nature, such as the establishment of military bases and fortifications, the carrying out of military maneuvers, or the testing of any type of weapon; it permits the use of military personnel or equipment for scientific research or for any other peaceful purposes"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
-      "text": "Tokelau included American Samoa's Swains Island (Olosega) in its 2006 draft independence constitution"
+      "text": "the Antarctic Treaty freezes, and most states do not recognize, the land and maritime territorial claims made by Argentina, Australia, Chile, France, New Zealand, Norway, and the United Kingdom (some overlapping) for three-fourths of the continent; the US and Russia reserve the right to make claims; no formal claims have been made in the sector between 90 degrees west and 150 degrees west; the International Whaling Commission created a sanctuary around the entire continent to deter catches by countries claiming to conduct scientific whaling; Australia has established a similar preserve in the waters around its territorial claim"
     }
   }
 }

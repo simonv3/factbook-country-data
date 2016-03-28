@@ -1,228 +1,242 @@
 {
   "Introduction": {
     "Background": {
-      "text": "First inhabited by Arawak and later by Carib Indians, the Virgin Islands were settled by the Dutch in 1648 and then annexed by the English in 1672. The islands were part of the British colony of the Leeward Islands from 1872-1960; they were granted autonomy in 1967. The economy is closely tied to the larger and more populous US Virgin Islands to the west; the US dollar is the legal currency."
+      "text": "The Danes secured control over the southern Virgin Islands of Saint Thomas, Saint John, and Saint Croix during the 17th and early 18th centuries. Sugarcane, produced by African slave labor, drove the islands' economy during the 18th and early 19th centuries. In 1917, the US purchased the Danish holdings, which had been in economic decline since the abolition of slavery in 1848."
     }
   },
   "Geography": {
     "Location": {
-      "text": "Caribbean, between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico"
+      "text": "Caribbean, islands between the Caribbean Sea and the North Atlantic Ocean, east of Puerto Rico"
     },
     "Geographic coordinates": {
-      "text": "18 30 N, 64 30 W"
+      "text": "18 20 N, 64 50 W"
     },
     "Map references": {
       "text": "Central America and the Caribbean"
     },
     "Area": {
       "total": {
-        "text": "151 sq km"
+        "text": "1,910 sq km"
       },
       "land": {
-        "text": "151 sq km"
+        "text": "346 sq km"
       },
       "water": {
-        "text": "0 sq km"
-      },
-      "note": {
-        "text": "comprised of 16 inhabited and more than 20 uninhabited islands; includes the islands of Tortola, Anegada, Virgin Gorda, Jost van Dyke"
+        "text": "1,564 sq km"
       }
     },
     "Area - comparative": {
-      "text": "about 0.9 times the size of Washington, DC"
+      "text": "twice the size of Washington, DC"
     },
     "Land boundaries": {
       "text": "0 km"
     },
     "Coastline": {
-      "text": "80 km"
+      "text": "188 km"
     },
     "Maritime claims": {
       "territorial sea": {
-        "text": "3 nm"
+        "text": "12 nm"
       },
-      "exclusive fishing zone": {
+      "exclusive economic zone": {
         "text": "200 nm"
       }
     },
     "Climate": {
-      "text": "subtropical; humid; temperatures moderated by trade winds"
+      "text": "subtropical, tempered by easterly trade winds, relatively low humidity, little seasonal temperature variation; rainy season September to November"
     },
     "Terrain": {
-      "text": "coral islands relatively flat; volcanic islands steep, hilly"
+      "text": "mostly hilly to rugged and mountainous with little flat land"
     },
     "Elevation extremes": {
       "lowest point": {
         "text": "Caribbean Sea 0 m"
       },
       "highest point": {
-        "text": "Mount Sage 521 m"
+        "text": "Crown Mountain 474 m"
       }
     },
     "Natural resources": {
-      "text": "NEGL; pleasant climate, beaches foster tourism"
+      "text": "sun, sand, sea, surf"
     },
     "Land use": {
       "agricultural land": {
-        "text": "46.7% ++ arable land 6.7%; permanent crops 6.7%; permanent pasture 33.3%"
+        "text": "11.5% ++ arable land 2.9%; permanent crops 2.9%; permanent pasture 5.7%"
       },
       "forest": {
-        "text": "24.3%"
+        "text": "57.4%"
       },
       "other": {
-        "text": "29% (2011 est.)"
+        "text": "31.1% (2011 est.)"
       }
     },
     "Irrigated land": {
-      "text": "NA"
+      "text": "1 sq km (2011)"
     },
     "Natural hazards": {
-      "text": "hurricanes and tropical storms (July to October)"
+      "text": "several hurricanes in recent years; frequent and severe droughts and floods; occasional earthquakes"
     },
     "Environment - current issues": {
-      "text": "limited natural freshwater resources except for a few seasonal streams and springs on Tortola; most of the islands' water supply comes from wells and rainwater catchments"
+      "text": "lack of natural freshwater resources"
     },
     "Geography - note": {
-      "text": "strong ties to nearby US Virgin Islands and Puerto Rico"
+      "text": "important location along the Anegada Passage - a key shipping lane for the Panama Canal; Saint Thomas has one of the best natural deepwater harbors in the Caribbean"
     }
   },
   "People and Society": {
     "Nationality": {
       "noun": {
-        "text": "British Virgin Islander(s)"
+        "text": "Virgin Islander(s) (US citizens)"
       },
       "adjective": {
-        "text": "British Virgin Islander"
+        "text": "Virgin Islander"
       }
     },
     "Ethnic groups": {
-      "text": "black 82%, white 6.8%, mixed 5.9%, East Indian 3%, other 1.6%, unspecified 0.7% (2001 est.)"
+      "text": "black 76%, white 15.6%, Asian 1.4%, other 4.9%, mixed 2.1%",
+      "note": {
+        "text": "17.4% self-identify as latino (2010 est.)"
+      }
     },
     "Languages": {
-      "text": "English (official)"
+      "text": "English 71.6%, Spanish or Spanish Creole 17.2%, French or French Creole 8.6%, other 2.5% (2010 est.)"
     },
     "Religions": {
-      "text": "Protestant 72.2% (Methodist 22.7%, Anglican 11.6%, Church of God 11.4%, Pentecostal 9.1%, Seventh Day Adventist 8.4%, Baptist 8.2%, other Protestant .9%), Roman Catholic 9.5%, Jehovah's Witnesses 2.2%, Hindu 2%, other 5.2%, none 6.4%, unspecified 2.7% (2001 est.)"
+      "text": "Protestant 59% (Baptist 42%, Episcopalian 17%), Roman Catholic 34%, other 7%"
     },
     "Population": {
-      "text": "33,454 (July 2015 est.)"
+      "text": "103,574 (July 2015 est.)"
     },
     "Age structure": {
       "0-14 years": {
-        "text": "17.01% (male 2,798/female 2,891)"
+        "text": "17.47% (male 9,124/female 8,966)"
       },
       "15-24 years": {
-        "text": "14.14% (male 2,255/female 2,476)"
+        "text": "9.87% (male 4,642/female 5,576)"
       },
       "25-54 years": {
-        "text": "49.64% (male 7,840/female 8,767)"
+        "text": "38.71% (male 18,103/female 21,994)"
       },
       "55-64 years": {
-        "text": "10.97% (male 1,797/female 1,872)"
+        "text": "14.49% (male 7,194/female 7,819)"
       },
       "65 years and over": {
-        "text": "8.24% (male 1,343/female 1,415) (2015 est.)"
+        "text": "19.46% (male 9,110/female 11,046) (2015 est.)"
       },
       "population pyramid": {
         "text": null
       }
     },
+    "Dependency ratios": {
+      "total dependency ratio": {
+        "text": "61.2%"
+      },
+      "youth dependency ratio": {
+        "text": "32.8%"
+      },
+      "elderly dependency ratio": {
+        "text": "28.4%"
+      },
+      "potential support ratio": {
+        "text": "3.5% (2015 est.)"
+      }
+    },
     "Median age": {
       "total": {
-        "text": "35.9 years"
+        "text": "44.9 years"
       },
       "male": {
-        "text": "35.8 years"
+        "text": "45.2 years"
       },
       "female": {
-        "text": "36 years (2015 est.)"
+        "text": "44.7 years (2015 est.)"
       }
     },
     "Population growth rate": {
-      "text": "2.32% (2015 est.)"
+      "text": "-0.59% (2015 est.)"
     },
     "Birth rate": {
-      "text": "10.91 births/1,000 population (2015 est.)"
+      "text": "10.31 births/1,000 population (2015 est.)"
     },
     "Death rate": {
-      "text": "4.99 deaths/1,000 population (2015 est.)"
+      "text": "8.54 deaths/1,000 population (2015 est.)"
     },
     "Net migration rate": {
-      "text": "17.28 migrant(s)/1,000 population (2015 est.)"
+      "text": "-7.67 migrant(s)/1,000 population (2015 est.)"
     },
     "Urbanization": {
       "urban population": {
-        "text": "46.2% of total population (2015)"
+        "text": "95.3% of total population (2015)"
       },
       "rate of urbanization": {
-        "text": "1.8% annual rate of change (2010-15 est.)"
+        "text": "0.25% annual rate of change (2010-15 est.)"
       }
     },
     "Major urban areas - population": {
-      "text": "ROAD TOWN (capital) 13,000 (2014)"
+      "text": "CHARLOTTE AMALIE (capital) 52,000 (2014)"
     },
     "Sex ratio": {
       "at birth": {
-        "text": "1.05 male(s)/female"
+        "text": "1.06 male(s)/female"
       },
       "0-14 years": {
-        "text": "0.97 male(s)/female"
+        "text": "1.02 male(s)/female"
       },
       "15-24 years": {
-        "text": "0.91 male(s)/female"
+        "text": "0.83 male(s)/female"
       },
       "25-54 years": {
-        "text": "0.89 male(s)/female"
+        "text": "0.82 male(s)/female"
       },
       "55-64 years": {
-        "text": "0.96 male(s)/female"
+        "text": "0.92 male(s)/female"
       },
       "65 years and over": {
-        "text": "0.95 male(s)/female"
+        "text": "0.83 male(s)/female"
       },
       "total population": {
-        "text": "0.92 male(s)/female (2015 est.)"
+        "text": "0.87 male(s)/female (2015 est.)"
       }
     },
     "Infant mortality rate": {
       "total": {
-        "text": "12.98 deaths/1,000 live births"
+        "text": "6.64 deaths/1,000 live births"
       },
       "male": {
-        "text": "14.79 deaths/1,000 live births"
+        "text": "7.35 deaths/1,000 live births"
       },
       "female": {
-        "text": "11.09 deaths/1,000 live births (2015 est.)"
+        "text": "5.89 deaths/1,000 live births (2015 est.)"
       }
     },
     "Life expectancy at birth": {
       "total population": {
-        "text": "78.46 years"
+        "text": "79.89 years"
       },
       "male": {
-        "text": "77.12 years"
+        "text": "76.84 years"
       },
       "female": {
-        "text": "79.87 years (2015 est.)"
+        "text": "83.11 years (2015 est.)"
       }
     },
     "Total fertility rate": {
-      "text": "1.26 children born/woman (2015 est.)"
+      "text": "1.74 children born/woman (2015 est.)"
     },
     "Drinking water source": {
       "improved": {
-        "text": " ++ urban: 98% of population ++ rural: 98% of population ++ total: 98% of population"
+        "text": " ++ urban: 100% of population ++ rural: 100% of population ++ total: 100% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 2% of population ++ rural: 2% of population ++ total: 2% of population (2010 est.)"
+        "text": " ++ urban: 0% of population ++ rural: 0% of population ++ total: 0% of population (2015 est.)"
       }
     },
     "Sanitation facility access": {
       "improved": {
-        "text": " ++ urban: 97.5% of population ++ rural: 97.5% of population ++ total: 97.5% of population"
+        "text": " ++ urban: 96.4% of population ++ rural: 96.4% of population ++ total: 96.4% of population"
       },
       "unimproved": {
-        "text": " ++ urban: 2.5% of population ++ rural: 2.5% of population ++ total: 2.5% of population (2015 est.)"
+        "text": " ++ urban: 3.6% of population ++ rural: 3.6% of population ++ total: 3.6% of population (2015 est.)"
       }
     },
     "HIV/AIDS - adult prevalence rate": {
@@ -233,210 +247,202 @@
     },
     "HIV/AIDS - deaths": {
       "text": "NA"
-    },
-    "Education expenditures": {
-      "text": "4.4% of GDP (2010)"
-    },
-    "School life expectancy (primary to tertiary education)": {
-      "total": {
-        "text": "15 years"
-      },
-      "male": {
-        "text": "15 years"
-      },
-      "female": {
-        "text": "16 years (2009)"
-      }
     }
   },
   "Government": {
     "Country name": {
       "conventional long form": {
-        "text": "none"
+        "text": "United States Virgin Islands"
       },
       "conventional short form": {
-        "text": "British Virgin Islands"
+        "text": "Virgin Islands"
+      },
+      "former": {
+        "text": "Danish West Indies"
       },
       "abbreviation": {
-        "text": "BVI"
+        "text": "USVI"
       }
     },
     "Dependency status": {
-      "text": "overseas territory of the UK; internal self-governing"
+      "text": "organized, unincorporated territory of the US with policy relations between the Virgin Islands and the US under the jurisdiction of the Office of Insular Affairs, US Department of the Interior"
     },
     "Government type": {
       "text": "NA"
     },
     "Capital": {
       "name": {
-        "text": "Road Town"
+        "text": "Charlotte Amalie"
       },
       "geographic coordinates": {
-        "text": "18 25 N, 64 37 W"
+        "text": "18 21 N, 64 56 W"
       },
       "time difference": {
         "text": "UTC-4 (1 hour ahead of Washington, DC, during Standard Time)"
       }
     },
     "Administrative divisions": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of the US); there are no first-order administrative divisions as defined by the US Government, but there are 3 islands at the second order; Saint Croix, Saint John, Saint Thomas"
     },
     "Independence": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of the US)"
     },
     "National holiday": {
-      "text": "Territory Day, 1 July (1956)"
+      "text": "Transfer Day (from Denmark to the US), 31 March (1917)"
     },
     "Constitution": {
-      "text": "several previous; latest effective 15 June 2007 (2015)"
+      "text": "22 July 1954 - the Revised Organic Act of the Virgin Islands functions as a constitution for this territory of the US; revised 1962, 2000 (2015)"
     },
     "Legal system": {
-      "text": "English common law"
+      "text": "US common law"
     },
     "Suffrage": {
-      "text": "18 years of age; universal"
+      "text": "18 years of age; universal; note - island residents are US citizens but do not vote in US presidential elections"
     },
     "Executive branch": {
       "chief of state": {
-        "text": "Queen ELIZABETH II (since 6 February 1952); represented by Governor John DUNCAN (since 15 August 2014)"
+        "text": "President Barack H. OBAMA (since 20 January 2009); Vice President Joseph R. BIDEN (since 20 January 2009)"
       },
       "head of government": {
-        "text": "Premier Orlando SMITH (since 9 November 2011)"
+        "text": "Governor Kenneth MAPP (since 5 January 2015), Lieutenant Governor Osbert POTTER (since 5 January 2015)"
       },
       "cabinet": {
-        "text": "Executive Council appointed by the governor from members of the House of Assembly"
+        "text": "Territorial Cabinet appointed by the governor and confirmed by the Senate"
       },
       "elections/appointments": {
-        "text": "the monarchy is hereditary; governor appointed by the monarch; following legislative elections, the leader of the majority party or majority coalition usually appointed premier by the governor"
+        "text": "president and vice president indirectly elected on the same ballot by an Electoral College of 'electors' chosen from each state; president and vice president serve a 4-year term (eligible for a second term); under the US Constitution, residents of the Virgin Islands do not vote in elections for US president and vice president; however, they may vote in the Democratic and Republican presidential primary elections; governor and lieutenant governor directly elected on the same ballot by absolute majority vote in 2 rounds if needed for a 4-year term (eligible for a second term); election last held on 4 November 2014 (next to be held in November 2018)"
+      },
+      "election results": {
+        "text": "Kenneth MAPP elected governor; percent of vote in runoff - Kenneth MAPP (independent) 63.9%, Donna CHRISTIAN-CHRISTIANSEN (Democratic Party) 36.1%"
       }
     },
     "Legislative branch": {
       "description": {
-        "text": "unicameral House of Assembly (13 seats; 9 members directly elected in single-seat constituencies and 4 at-large seats by simple majority vote to serve 4-year terms); note - the Assembly includes the attorney general, a non-voting ex officio member"
+        "text": "unicameral Senate (15 seats; members directly elected in single- and multi-seat constituencies by simple majority popular vote to serve 2-year terms)"
       },
       "elections": {
-        "text": "last held on 8 June 2015 (next to be held in 2019)"
+        "text": "last held on 4 November 2014 (next to be held on 8 November 2016)"
       },
       "election results": {
-        "text": "percent of vote by party - NA; seats by party - NDP 9, VIP 3, PEP 1"
+        "text": "percent of vote by party - NA; seats by party - NA"
+      },
+      "note": {
+        "text": "the Virgin Islands directly elects 1 member by simple majority vote to serve a 2-year term as a delegate to the US House of Representatives; the delegate can vote when serving on a committee and when the House meets as the Committee of the Whole House, but not when legislation is submitted for a “full floor” House vote; election of delegate last held on 4 November 2014 (next to be held on 8 November 2016)"
       }
     },
     "Judicial branch": {
       "highest court(s)": {
-        "text": "the Eastern Caribbean Supreme Court (ECSC) is the itinerant superior court of record for the 9-member Organization of Eastern Caribbean States to include the British Virgin Islands;  the ECSC - with its headquarters on St. Lucia - is headed by the chief justice and is comprised of the Court of Appeal with 3 justices and the High Court with 16 judges; sittings of the Court of Appeal and High Court rotate among the 9 member states; 3 High Court judges reside in member states; 3 High Court judges reside on the British Virgin Islands"
+        "text": "Supreme Court of the Virgin Islands (consists of the chief justice and 2 associate justices); note - court established by US Congress in 2004 and assumed appellate jurisdiction in 2007"
       },
       "judge selection and term of office": {
-        "text": "Eastern Caribbean Supreme Court chief justice appointed by Her Majesty, Queen ELIZABETH II; other justices and judges appointed by the Judicial and Legal Services Commission; Court of Appeal justices appointed for life with mandatory retirement at age 65; High Court judges appointed for life with mandatory retirement at age 62"
+        "text": "justices appointed by the governor and confirmed by the Virgin Islands Senate; justices initially serve renewable 10-year terms; chief justice elected to position by peers for a 3-year term"
       },
       "subordinate courts": {
-        "text": "Magistrates' Courts"
+        "text": "Superior Court (Territorial Court renamed in 2004); US Court of Appeals for the Third Circuit (has appellate jurisdiction over the District Court of the Virgin Islands; it is a territorial court and is not associated with a US federal judicial district); District Court of the Virgin Islands"
       }
     },
     "Political parties and leaders": {
-      "text": "National Democratic Party or NDP [Orlando SMITH];; Peoples Empowerment Party or PEP [Alvin CHRISTOPHER];; Virgin Islands Party or VIP [Ralph T. O'NEAL]"
+      "text": "Democratic Party [Arturo WATLINGTON] ++ Independent Citizens' Movement or ICM [Usie RICHARDS] ++ Republican Party [Gary SPRAUVE]"
     },
     "Political pressure groups and leaders": {
-      "text": "Family Support Network ++ Woman's Desk",
-      "other": {
-        "text": "environmentalists"
-      }
+      "text": "NA"
     },
     "International organization participation": {
-      "text": "Caricom (associate), CDB, Interpol (subbureau), IOC, OECS, UNESCO (associate), UPU"
+      "text": "AOSIS (observer), Interpol (subbureau), IOC, UPU, WFTU (NGOs)"
     },
     "Diplomatic representation in the US": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of the US)"
     },
     "Diplomatic representation from the US": {
-      "text": "none (overseas territory of the UK)"
+      "text": "none (territory of the US)"
     },
     "Flag description": {
-      "text": "blue with the flag of the UK in the upper hoist-side quadrant and the Virgin Islander coat of arms centered in the outer half of the flag; the coat of arms depicts a woman flanked on either side by a vertical column of six oil lamps above a scroll bearing the Latin word VIGILATE (Be Watchful); the islands were named by COLUMBUS in 1493 in honor of Saint Ursula and her 11 virgin followers (some sources say 11,000) who reputedly were martyred by the Huns in the 4th or 5th century; the figure on the banner holding a lamp represents the saint; the other lamps symbolize her followers"
-    },
-    "National symbol(s)": {
-      "text": "zenaida dove, white cedar flower; national colors: yellow, green, red, white, blue"
+      "text": "white field with a modified US coat of arms in the center between the large blue initials V and I; the coat of arms shows a yellow eagle holding an olive branch in its right talon and three arrows in the left with a superimposed shield of seven red and six white vertical stripes below a blue panel; white is a symbol of purity, the letters stand for the Virgin Islands"
     },
     "National anthem": {
+      "name": {
+        "text": "\"Virgin Islands March\""
+      },
+      "lyrics/music": {
+        "text": "multiple/Alton Augustus ADAMS, Sr."
+      },
       "note": {
-        "text": "as a territory of the United Kingdom, \"God Save the Queen\" is official (see United Kingdom)"
+        "text": "adopted 1963; serves as a local anthem; as a territory of the United States, \"The Star-Spangled Banner\" is official (see United States)"
       }
     }
   },
   "Economy": {
     "Economy - overview": {
-      "text": "The economy, one of the most stable and prosperous in the Caribbean, is highly dependent on tourism generating an estimated 45% of the national income. More than 934,000 tourists, mainly from the US, visited the islands in 2008. In the mid-1980s, the government began offering offshore registration to companies wishing to incorporate in the islands, and incorporation fees now generate substantial revenues. Roughly 400,000 companies were on the offshore registry by yearend 2000. The adoption of a comprehensive insurance law in late 1994, which provides a blanket of confidentiality with regulated statutory gateways for investigation of criminal offenses, made the British Virgin Islands even more attractive to international business. Livestock raising is the most important agricultural activity; poor soils limit the islands' ability to meet domestic food requirements. Because of traditionally close links with the US Virgin Islands, the British Virgin Islands has used the US dollar as its currency since 1959."
+      "text": "Tourism, trade, and other services are the primary economic activities, accounting for nearly 60% of the Virgin Island's GDP and about half of total civilian employment. The islands host nearly 3 million tourists per year, mostly from visiting cruise ships. The islands are vulnerable to damage from storms. The agriculture sector is small, with most food being imported. Industry and government each account for about one-fifth of GDP. Federal programs and grants, totaling $241.4 million in 2013, contributed 19.7% of the territory’s total revenues. The manufacturing sector consists of rum distilling, electronics, pharmaceuticals, and watch assembly. A refinery on St. Croix, one of the world’s largest, processed 350,000 barrels of crude oil a day until it was shut down in February 2012, after operating for 45 years. The economy declined in 2013, due to decreases in exports resulting from the loss of refined oil products. Nevertheless, the economy remains relatively diversified. Along with a vibrant tourism industry, rum exports, trade, and services will be major income sources in future years."
     },
     "GDP (purchasing power parity)": {
-      "text": "$500 million (2010 est.)"
+      "text": "$3.792 billion (2013 est.) ++ $4.143 billion (2012) ++ $4.288 billion (2011)"
     },
     "GDP (official exchange rate)": {
-      "text": "$1.095 billion (2008)"
+      "text": "$5.075 billion (2013)"
     },
     "GDP - real growth rate": {
-      "text": "1.3% (2010 est.) ++ -0.6% (2008 est.)"
+      "text": "-5.4% (2013 est.) ++ -13.8% (2012 est.) ++ -7.5% (2011 est.)"
     },
     "GDP - per capita (PPP)": {
-      "text": "$42,300 (2010 est.)"
+      "text": "$36,100 (2013 est.) ++ $39,300 (2012 est.) ++ $40,500 (2011 est.)"
     },
     "GDP - composition, by end use": {
       "household consumption": {
-        "text": "33.4%"
+        "text": "63.6%"
       },
       "government consumption": {
-        "text": "8.6%"
+        "text": "28%"
       },
-      "investment in fixed capital": {
-        "text": "24.6%"
-      },
-      "investment in inventories": {
-        "text": "0%"
+      "investment in fixed assets": {
+        "text": "6.1%"
       },
       "exports of goods and services": {
-        "text": "107.1%"
+        "text": "69.3%"
       },
       "imports of goods and services": {
-        "text": "-73.7% ++  (2014 est.)"
+        "text": "69.3% (2013)"
       }
     },
     "GDP - composition, by sector of origin": {
       "agriculture": {
-        "text": "1.1%"
+        "text": "2%"
       },
       "industry": {
-        "text": "12%"
+        "text": "20%"
       },
       "services": {
-        "text": "86.9% (2014 est.)"
+        "text": "78% (2012 est.)"
       }
     },
     "Agriculture - products": {
-      "text": "fruits, vegetables; livestock, poultry; fish"
+      "text": "fruit, vegetables, sorghum; Senepol cattle"
     },
     "Industries": {
-      "text": "tourism, light industry, construction, rum, concrete block, offshore banking center"
+      "text": "tourism, watch assembly, rum distilling, construction, pharmaceuticals, electronics"
     },
     "Industrial production growth rate": {
-      "text": "2% (2014 est.)"
+      "text": "NA%"
     },
     "Labor force": {
-      "text": "12,770 (2004)"
+      "text": "50,580 (2012 est.)"
     },
     "Labor force - by occupation": {
       "agriculture": {
-        "text": "0.6%"
+        "text": "1%"
       },
       "industry": {
-        "text": "40%"
+        "text": "19%"
       },
       "services": {
-        "text": "59.4% (2005)"
+        "text": "80% (2003 est.)"
       }
     },
     "Unemployment rate": {
-      "text": "8.7% (2010 est.)"
+      "text": "13% (2014)"
     },
     "Population below poverty line": {
-      "text": "NA%"
+      "text": "28.9% (2002 est.)"
     },
     "Household income or consumption by percentage share": {
       "lowest 10%": {
@@ -448,41 +454,41 @@
     },
     "Budget": {
       "revenues": {
-        "text": "$300 million"
+        "text": "$1.223 billion"
       },
       "expenditures": {
-        "text": "$300 million (2014 est.)"
+        "text": "$1.551 billion (2013)"
       }
     },
     "Taxes and other revenues": {
-      "text": "27.4% of GDP (2014 est.)"
+      "text": "24.1% of GDP (2013)"
     },
     "Budget surplus (+) or deficit (-)": {
-      "text": "0% of GDP (2014 est.)"
+      "text": "-6.5% of GDP (2013)"
+    },
+    "Public debt": {
+      "text": "45.9% of GDP (2014)"
     },
     "Fiscal year": {
-      "text": "1 April - 31 March"
+      "text": "1 October - 30 September"
     },
     "Inflation rate (consumer prices)": {
-      "text": "2% (2014 est.) ++ 1.5% (2013 est.)"
-    },
-    "Current account balance": {
-      "text": "$362.6 million (2011 est.) ++ $279.8 million (2010 est.)"
+      "text": "3.1% (2012)"
     },
     "Exports": {
-      "text": "$25 million (2014 est.) ++ $25.5 million (2013 est.)"
+      "text": "$2.627 billion (2013) ++ $3.339 billion (2012)"
     },
     "Exports - commodities": {
-      "text": "rum, fresh fish, fruits, animals; gravel, sand"
+      "text": "rum"
     },
     "Imports": {
-      "text": "$290 million (2014 est.) ++ $320 million (2013 est.)"
+      "text": "$2.694 billion (2013) ++ $3.056 billion (2012)"
     },
     "Imports - commodities": {
-      "text": "building materials, automobiles, foodstuffs, machinery"
+      "text": "foodstuffs, consumer goods, building materials"
     },
     "Debt - external": {
-      "text": "$36.1 million (1997)"
+      "text": "$NA"
     },
     "Exchange rates": {
       "text": "the US dollar is used"
@@ -490,10 +496,10 @@
   },
   "Energy": {
     "Electricity - production": {
-      "text": "55 million kWh (2012 est.)"
+      "text": "777.9 million kWh (2012 est.)"
     },
     "Electricity - consumption": {
-      "text": "51.15 million kWh (2012 est.)"
+      "text": "723.5 million kWh (2012 est.)"
     },
     "Electricity - exports": {
       "text": "0 kWh (2013 est.)"
@@ -502,7 +508,7 @@
       "text": "0 kWh (2013 est.)"
     },
     "Electricity - installed generating capacity": {
-      "text": "44,000 kW (2012 est.)"
+      "text": "316,000 kW (2012 est.)"
     },
     "Electricity - from fossil fuels": {
       "text": "100% of total installed capacity (2012 est.)"
@@ -523,160 +529,141 @@
       "text": "0 bbl/day (2012 est.)"
     },
     "Crude oil - imports": {
-      "text": "0 bbl/day (2012 est.)"
+      "text": "4,493 bbl/day (2012 est.)"
     },
     "Crude oil - proved reserves": {
       "text": "0 bbl (1 January 2015 est.)"
     },
     "Refined petroleum products - production": {
-      "text": "0 bbl/day (2012 est.)"
+      "text": "29,350 bbl/day (2012 est.)"
     },
     "Refined petroleum products - consumption": {
-      "text": "800 bbl/day (2013 est.)"
+      "text": "110,500 bbl/day (2014 est.)"
     },
     "Refined petroleum products - exports": {
-      "text": "0 bbl/day (2012 est.)"
+      "text": "43,710 bbl/day (2012 est.)"
     },
     "Refined petroleum products - imports": {
-      "text": "772.6 bbl/day (2012 est.)"
+      "text": "131,400 bbl/day (2012 est.)"
     },
     "Natural gas - production": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - consumption": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - exports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - imports": {
-      "text": "0 cu m (2013 est.)"
+      "text": "0 cu m (2014 est.)"
     },
     "Natural gas - proved reserves": {
       "text": "0 cu m (1 January 2014 est.)"
     },
     "Carbon dioxide emissions from consumption of energy": {
-      "text": "160,100 Mt (2012 est.)"
+      "text": "12.41 million Mt (2012 est.)"
     }
   },
   "Communications": {
     "Telephones - fixed lines": {
       "total subscriptions": {
-        "text": "11,800"
+        "text": "76,100"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "36 (2014 est.)"
+        "text": "73 (2014 est.)"
       }
     },
     "Telephones - mobile cellular": {
       "total": {
-        "text": "48,400"
+        "text": "80,300"
       },
       "subscriptions per 100 inhabitants": {
-        "text": "148 (2014 est.)"
+        "text": "74 (2005)"
       }
     },
     "Telephone system": {
       "general assessment": {
-        "text": "good overall telephone service"
+        "text": "modern system with total digital switching, uses fiber-optic cable and microwave radio relay"
       },
       "domestic": {
-        "text": "fixed-line connections exceed 80 per 100 persons and mobile cellular subscribership is roughly 150 per 100 persons"
+        "text": "full range of services available"
       },
       "international": {
-        "text": "country code - 1-284; connected via submarine cable to Bermuda; the East Caribbean Fiber System (ECFS) submarine cable provides connectivity to 13 other islands in the eastern Caribbean (2011)"
+        "text": "country code - 1-340; submarine cable connections to US, the Caribbean, Central and South America; satellite earth stations - NA (2010)"
       }
     },
     "Broadcast media": {
-      "text": "1 private TV station; multi-channel TV is available from cable and satellite subscription services; about a half dozen private radio stations (2007)"
+      "text": "about a dozen TV broadcast stations including 1 public TV station; multi-channel cable and satellite TV services are available; 24 radio stations (2009)"
     },
     "Radio broadcast stations": {
-      "text": "AM 1, FM 5, shortwave 0 (2004)"
+      "text": "AM 6, FM 16, shortwave 0 (2005)"
     },
     "Television broadcast stations": {
-      "text": "1 (plus 1 cable company) (1997)"
+      "text": "5 (2006)"
     },
     "Internet country code": {
-      "text": ".vg"
+      "text": ".vi"
     },
     "Internet users": {
       "total": {
-        "text": "4,000"
+        "text": "30,000"
       },
       "percent of population": {
-        "text": "16.8% (2002)"
+        "text": "28.1% (2009)"
       }
     }
   },
   "Transportation": {
     "Airports": {
-      "text": "4 (2013)"
+      "text": "2 (2013)"
     },
     "Airports - with paved runways": {
       "total": {
         "text": "2"
       },
-      "914 to 1,523 m": {
+      "over 3,047 m": {
         "text": "1"
       },
-      "under 914 m": {
+      "1,524 to 2,437 m": {
         "text": "1 (2013)"
-      }
-    },
-    "Airports - with unpaved runways": {
-      "total": {
-        "text": "2"
-      },
-      "914 to 1,523 m": {
-        "text": "2 (2013)"
       }
     },
     "Roadways": {
       "total": {
-        "text": "200 km"
-      },
-      "paved": {
-        "text": "200 km (2007)"
+        "text": "1,260 km (2008)"
       }
     },
     "Ports and terminals": {
       "major seaport(s)": {
-        "text": "Road Harbor"
+        "text": "Charlotte Amalie, Christiansted, Cruz Bay, Frederiksted, Limetree Bay"
       }
     }
   },
   "Military": {
-    "Manpower available for military service": {
-      "males age 16-49": {
-        "text": "7,266 (2010 est.)"
-      }
-    },
     "Manpower fit for military service": {
       "males age 16-49": {
-        "text": "6,057"
+        "text": "17,542"
       },
       "females age 16-49": {
-        "text": "5,805 (2010 est.)"
+        "text": "20,946 (2010 est.)"
       }
     },
     "Manpower reaching militarily significant age annually": {
       "male": {
-        "text": "168"
+        "text": "744"
       },
       "female": {
-        "text": "162 (2010 est.)"
+        "text": "788 (2010 est.)"
       }
     },
     "Military - note": {
-      "text": "defense is the responsibility of the UK"
+      "text": "defense is the responsibility of the US"
     }
   },
   "Transnational Issues": {
     "Disputes - international": {
       "text": "none"
-    },
-    "Illicit drugs": {
-      "text": "transshipment point for South American narcotics destined for the US and Europe; large offshore financial center makes it vulnerable to money laundering"
     }
   }
 }
